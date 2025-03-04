@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 03/03/2025 11:31" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 04/03/2025 11:31" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,202 +12,35 @@
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
+  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E43</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250303104000 +0100" stop="20250303140000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros T2 E133</title>
+  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Mañaneros T2 E134</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16
 · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
-· Productora: La Cometa TV.</desc>
+</desc>
   </programme>
-  <programme start="20250303140000 +0100" stop="20250303141000 +0100" channel="ES: LA 1 FHD">
+  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Información/Informativo | 2023 | *6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
 </desc>
   </programme>
-  <programme start="20250303141000 +0100" stop="20250303150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Extra mañaneros T1 E100</title>
+  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Extra mañaneros T1 E101</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16
 · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
-· País: España
-· Presenta: Adela González, Alberto Herrera.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250303150000 +0100" stop="20250303154000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303154000 +0100" stop="20250303154500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 8.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303154500 +0100" stop="20250303161000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
 </desc>
-  </programme>
-  <programme start="20250303161000 +0100" stop="20250303161500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1234.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303161500 +0100" stop="20250303170500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje T1 E108</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16
-· Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303170500 +0100" stop="20250303173500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Salón de té La Moderna T1 E361</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *10.0/10
-· En la reconstrucción de las agresiones, se produce un enfrentamiento entre el personal de La Moderna y Quico. Leonora se despide de su familia. Emiliano recibe la visita de su antiguo contable Jerónimo Roldán. Votos: 1.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
-  </programme>
-  <programme start="20250303173500 +0100" stop="20250303183500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1 E539</title>
-    <desc lang="es">Series/Drama | 2022 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303183500 +0100" stop="20250303193200 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">El cazador T8 E469</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Presenta: Rodrigo Vázquez.
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303193200 +0100" stop="20250303203000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">El cazador T9 E12</title>
-    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303203000 +0100" stop="20250303210000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20250303210000 +0100" stop="20250303213500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
-· País: España
-· Presenta: Marta Carazo, Ana Roldán.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303213500 +0100" stop="20250303214000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 4.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303214000 +0100" stop="20250303225000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La revuelta T1 E92</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20250303225000 +0100" stop="20250304012000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Bake Off: Famosos al horno T2 E9</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | +7 | *10.0/10
-· Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 1.
-· País: España
-· Presenta: Paula Vázquez.
-· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
-  </programme>
-  <programme start="20250304012000 +0100" stop="20250304022000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Comerse el mundo T2022 · Valladolid, Yucatán, México</title>
-    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *10.0/10
-· En el corazón Valladolid de Yucatán, Peña descubrirá nuevos productos y sabores. Votos: 1.
-· País: España
-· Presenta: Javier Peña.</desc>
-  </programme>
-  <programme start="20250304022000 +0100" stop="20250304045000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 61.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250304045000 +0100" stop="20250304060000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
-· País: España</desc>
-  </programme>
-  <programme start="20250304060000 +0100" stop="20250304075000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 628.
-· País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16 | *6.0/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 10.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros T2</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
-· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 8.
-· País: España
-· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 421.
-</desc>
-  </programme>
-  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Extra mañaneros T1</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
-· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 10.
-· País: España
-· Presenta: Adela González, Alberto Herrera.
-· Productora: La Cometa TV.</desc>
   </programme>
   <programme start="20250304150000 +0100" stop="20250304154000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1</title>
-    <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1288.
+    <desc lang="es">Información/Informativo | 2014 | TP | *6.0/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
@@ -225,103 +58,94 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
 </desc>
   </programme>
-  <programme start="20250304161000 +0100" stop="20250304162000 +0100" channel="ES: LA 1 FHD">
+  <programme start="20250304161000 +0100" stop="20250304161500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1228.
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250304162000 +0100" stop="20250304173500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Salón de té La Moderna T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
-· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 21.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  <programme start="20250304161500 +0100" stop="20250304170500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje T1 E109</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16
+· Victoria, superada por la petición del duque, tendrá un día para darle respuesta si quiere conseguir lo que siempre ha deseado. La llegada de Sebastián se recibe en la casa grande con diferentes afectos: desde Leonardo hasta el duque.
+</desc>
+  </programme>
+  <programme start="20250304170500 +0100" stop="20250304173500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Salón de té La Moderna T1 E362</title>
+    <desc lang="es">Series/Drama | 2023 | +12
+· Emiliano hace liberar a Don Fermín para que Jerónimo lo mate. Lucía aparece por sorpresa en La Moderna. Iván se lleva a Maruja de la mansión. Trini no se va a Extremadura a acompañar a su madre por un extraño motivo.
+</desc>
   </programme>
   <programme start="20250304173500 +0100" stop="20250304183500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
-· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 307.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E540</title>
+    <desc lang="es">Series/Drama | 2022 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.
+</desc>
   </programme>
-  <programme start="20250304183500 +0100" stop="20250304193000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
-· Productora: Bambú Producciones.</desc>
+  <programme start="20250304183500 +0100" stop="20250304191300 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">El cazador T8 E405</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+</desc>
   </programme>
-  <programme start="20250304193000 +0100" stop="20250304203000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">El cazador T9</title>
+  <programme start="20250304191300 +0100" stop="20250304203000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">El cazador T9 E13</title>
     <desc lang="es">Entretenimiento/Concurso | 2025 | TP
 · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+</desc>
   </programme>
   <programme start="20250304203000 +0100" stop="20250304210000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 62.
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20250304210000 +0100" stop="20250304213500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | TP | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1262.
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
 · País: España
 · Presenta: Marta Carazo, Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20250304213500 +0100" stop="20250304214000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *10.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250304214000 +0100" stop="20250304225000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La revuelta T1</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T1 E93</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+</desc>
   </programme>
-  <programme start="20250304225000 +0100" stop="20250305000000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Late Xou con Marc Giró T3</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 11.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250304225000 +0100" stop="20250305000500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Late Xou con Marc Giró T3 E8</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Marc Giró entrevista a los hermanos Torres, que empiezan nueva aventura televisiva.
+</desc>
   </programme>
-  <programme start="20250305000000 +0100" stop="20250305011000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Late Xou con Marc Giró T2</title>
-    <desc lang="es">Entretenimiento/Late Night | 2024 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 13.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250305000500 +0100" stop="20250305012000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Late Xou con Marc Giró T1 · Macarena García y Amaia</title>
+    <desc lang="es">Entretenimiento/Late Night | 2023 | +12 | *10.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 1.
+</desc>
   </programme>
-  <programme start="20250305011000 +0100" stop="20250305034000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 60.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250305034000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 FHD">
+  <programme start="20250305012000 +0100" stop="20250305020000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
 · País: España</desc>
+  </programme>
+  <programme start="20250305020000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Discurso de Donald Trump ante el Congreso</title>
+    <desc lang="es">Información/Política | 2025
+· El presidente Donald Trump pronuncia un discurso en una sesión conjunta del Congreso en lo que es su primer discurso importante desde que asumió su segundo mandato.
+</desc>
   </programme>
   <programme start="20250305060000 +0100" stop="20250305075000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
@@ -1022,177 +846,28 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20250303104000 +0100" stop="20250303140000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Mañaneros T2 E133</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250303140000 +0100" stop="20250303141000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
-</desc>
-  </programme>
-  <programme start="20250303141000 +0100" stop="20250303150000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Extra mañaneros T1 E100</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
-· País: España
-· Presenta: Adela González, Alberto Herrera.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250303150000 +0100" stop="20250303154000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303154000 +0100" stop="20250303154500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 8.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303154500 +0100" stop="20250303161000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
-</desc>
-  </programme>
-  <programme start="20250303161000 +0100" stop="20250303161500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1234.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303161500 +0100" stop="20250303170500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje T1 E108</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16
-· Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303170500 +0100" stop="20250303173500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Salón de té La Moderna T1 E361</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *10.0/10
-· En la reconstrucción de las agresiones, se produce un enfrentamiento entre el personal de La Moderna y Quico. Leonora se despide de su familia. Emiliano recibe la visita de su antiguo contable Jerónimo Roldán. Votos: 1.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
-  </programme>
-  <programme start="20250303173500 +0100" stop="20250303183500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1 E539</title>
-    <desc lang="es">Series/Drama | 2022 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303183500 +0100" stop="20250303193200 +0100" channel="ES: LA 1 HD">
-    <title lang="es">El cazador T8 E469</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Presenta: Rodrigo Vázquez.
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303193200 +0100" stop="20250303203000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">El cazador T9 E12</title>
-    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303203000 +0100" stop="20250303210000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20250303210000 +0100" stop="20250303213500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
-· País: España
-· Presenta: Marta Carazo, Ana Roldán.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303213500 +0100" stop="20250303214000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 4.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303214000 +0100" stop="20250303225000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La revuelta T1 E92</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20250303225000 +0100" stop="20250304012000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Bake Off: Famosos al horno T2 E9</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | +7 | *10.0/10
-· Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 1.
-· País: España
-· Presenta: Paula Vázquez.
-· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
-  </programme>
-  <programme start="20250304012000 +0100" stop="20250304022000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Comerse el mundo T2022 · Valladolid, Yucatán, México</title>
-    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *10.0/10
-· En el corazón Valladolid de Yucatán, Peña descubrirá nuevos productos y sabores. Votos: 1.
-· País: España
-· Presenta: Javier Peña.</desc>
-  </programme>
-  <programme start="20250304022000 +0100" stop="20250304045000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 61.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250304045000 +0100" stop="20250304060000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310035500 +0100" stop="20250310060000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
 · País: España</desc>
   </programme>
-  <programme start="20250304060000 +0100" stop="20250304075000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310060000 +0100" stop="20250310075000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 628.
+· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 639.
 · País: España
 · Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310075000 +0100" stop="20250310104000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16 | *6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 10.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310104000 +0100" stop="20250310140000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Mañaneros T2</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
 · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 8.
@@ -1200,13 +875,13 @@
 · Presenta: Adela González, Alberto Herrera, Miriam Moreno.
 · Productora: La Cometa TV.</desc>
   </programme>
-  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310140000 +0100" stop="20250310141000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 421.
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
 </desc>
   </programme>
-  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310141000 +0100" stop="20250310150000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Extra mañaneros T1</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
 · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 10.
@@ -1214,10 +889,147 @@
 · Presenta: Adela González, Alberto Herrera.
 · Productora: La Cometa TV.</desc>
   </programme>
-  <programme start="20250304150000 +0100" stop="20250304154000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250310150000 +0100" stop="20250310154000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1</title>
     <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1288.
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310154000 +0100" stop="20250310154500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 8.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310154500 +0100" stop="20250310161000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
+</desc>
+  </programme>
+  <programme start="20250310161000 +0100" stop="20250310162000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información/Meteorología | 2014 | TP | *6.0/10
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310162000 +0100" stop="20250310173500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Salón de té La Moderna T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
+· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 23.
+· País: España
+· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
+· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  </programme>
+  <programme start="20250310173500 +0100" stop="20250310183500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 310.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250310183500 +0100" stop="20250310193000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250310193000 +0100" stop="20250310203000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">El cazador T9</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+  </programme>
+  <programme start="20250310203000 +0100" stop="20250310210000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250310210000 +0100" stop="20250310213500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
+· País: España
+· Presenta: Marta Carazo, Ana Roldán.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310213500 +0100" stop="20250310214000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310214000 +0100" stop="20250310225000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La revuelta T1</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20250310225000 +0100" stop="20250311012000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Bake Off: Famosos al horno T2</title>
+    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | TP | *6.0/10
+· Paula Vázquez presenta este concurso en el que catorce personajes famosos luchan por consagrarse como mejor pastelero o pastelera de España y ganar un premio que donarán a la ONG de su elección. Votos: 10.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+  </programme>
+  <programme start="20250311012000 +0100" stop="20250311021500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Comerse el mundo T2022</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *6.0/10
+· El chef vallisoletano Javier Peña viaja alrededor del mundo con el objetivo de encontrar la esencia de la cocina de cada país. Y todo ello gracias a la ayuda de huéspedes locales que le acercarán lo más auténtico de su cocina. Votos: 38.
+· País: España
+· Presenta: Javier Peña.</desc>
+  </programme>
+  <programme start="20250311021500 +0100" stop="20250311044500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información/Informativo | 2024 | *6.0/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 64.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E43</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Mañaneros T2 E134</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+</desc>
+  </programme>
+  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
+</desc>
+  </programme>
+  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Extra mañaneros T1 E101</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
+</desc>
+  </programme>
+  <programme start="20250304150000 +0100" stop="20250304154000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información/Informativo | 2014 | TP | *6.0/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
@@ -1235,103 +1047,94 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
 </desc>
   </programme>
-  <programme start="20250304161000 +0100" stop="20250304162000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250304161000 +0100" stop="20250304161500 +0100" channel="ES: LA 1 HD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1228.
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250304162000 +0100" stop="20250304173500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Salón de té La Moderna T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
-· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 21.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  <programme start="20250304161500 +0100" stop="20250304170500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje T1 E109</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16
+· Victoria, superada por la petición del duque, tendrá un día para darle respuesta si quiere conseguir lo que siempre ha deseado. La llegada de Sebastián se recibe en la casa grande con diferentes afectos: desde Leonardo hasta el duque.
+</desc>
+  </programme>
+  <programme start="20250304170500 +0100" stop="20250304173500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Salón de té La Moderna T1 E362</title>
+    <desc lang="es">Series/Drama | 2023 | +12
+· Emiliano hace liberar a Don Fermín para que Jerónimo lo mate. Lucía aparece por sorpresa en La Moderna. Iván se lleva a Maruja de la mansión. Trini no se va a Extremadura a acompañar a su madre por un extraño motivo.
+</desc>
   </programme>
   <programme start="20250304173500 +0100" stop="20250304183500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
-· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 307.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E540</title>
+    <desc lang="es">Series/Drama | 2022 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.
+</desc>
   </programme>
-  <programme start="20250304183500 +0100" stop="20250304193000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
-· Productora: Bambú Producciones.</desc>
+  <programme start="20250304183500 +0100" stop="20250304191300 +0100" channel="ES: LA 1 HD">
+    <title lang="es">El cazador T8 E405</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+</desc>
   </programme>
-  <programme start="20250304193000 +0100" stop="20250304203000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">El cazador T9</title>
+  <programme start="20250304191300 +0100" stop="20250304203000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">El cazador T9 E13</title>
     <desc lang="es">Entretenimiento/Concurso | 2025 | TP
 · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+</desc>
   </programme>
   <programme start="20250304203000 +0100" stop="20250304210000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 62.
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20250304210000 +0100" stop="20250304213500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | TP | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1262.
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
 · País: España
 · Presenta: Marta Carazo, Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20250304213500 +0100" stop="20250304214000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *10.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250304214000 +0100" stop="20250304225000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La revuelta T1</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T1 E93</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+</desc>
   </programme>
-  <programme start="20250304225000 +0100" stop="20250305000000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Late Xou con Marc Giró T3</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 11.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250304225000 +0100" stop="20250305000500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Late Xou con Marc Giró T3 E8</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Marc Giró entrevista a los hermanos Torres, que empiezan nueva aventura televisiva.
+</desc>
   </programme>
-  <programme start="20250305000000 +0100" stop="20250305011000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Late Xou con Marc Giró T2</title>
-    <desc lang="es">Entretenimiento/Late Night | 2024 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 13.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250305000500 +0100" stop="20250305012000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Late Xou con Marc Giró T1 · Macarena García y Amaia</title>
+    <desc lang="es">Entretenimiento/Late Night | 2023 | +12 | *10.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 1.
+</desc>
   </programme>
-  <programme start="20250305011000 +0100" stop="20250305034000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 60.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250305034000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250305012000 +0100" stop="20250305020000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
 · País: España</desc>
+  </programme>
+  <programme start="20250305020000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Discurso de Donald Trump ante el Congreso</title>
+    <desc lang="es">Información/Política | 2025
+· El presidente Donald Trump pronuncia un discurso en una sesión conjunta del Congreso en lo que es su primer discurso importante desde que asumió su segundo mandato.
+</desc>
   </programme>
   <programme start="20250305060000 +0100" stop="20250305075000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario Matinal</title>
@@ -2032,177 +1835,28 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20250303104000 +0100" stop="20250303140000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Mañaneros T2 E133</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250303140000 +0100" stop="20250303141000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
-</desc>
-  </programme>
-  <programme start="20250303141000 +0100" stop="20250303150000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Extra mañaneros T1 E100</title>
-    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
-· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
-· País: España
-· Presenta: Adela González, Alberto Herrera.
-· Productora: La Cometa TV.</desc>
-  </programme>
-  <programme start="20250303150000 +0100" stop="20250303154000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303154000 +0100" stop="20250303154500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 8.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303154500 +0100" stop="20250303161000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
-</desc>
-  </programme>
-  <programme start="20250303161000 +0100" stop="20250303161500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1234.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303161500 +0100" stop="20250303170500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje T1 E108</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16
-· Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303170500 +0100" stop="20250303173500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Salón de té La Moderna T1 E361</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *10.0/10
-· En la reconstrucción de las agresiones, se produce un enfrentamiento entre el personal de La Moderna y Quico. Leonora se despide de su familia. Emiliano recibe la visita de su antiguo contable Jerónimo Roldán. Votos: 1.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
-  </programme>
-  <programme start="20250303173500 +0100" stop="20250303183500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1 E539</title>
-    <desc lang="es">Series/Drama | 2022 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250303183500 +0100" stop="20250303193200 +0100" channel="ES: LA 1 SD">
-    <title lang="es">El cazador T8 E469</title>
-    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Presenta: Rodrigo Vázquez.
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303193200 +0100" stop="20250303203000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">El cazador T9 E12</title>
-    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
-  </programme>
-  <programme start="20250303203000 +0100" stop="20250303210000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20250303210000 +0100" stop="20250303213500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
-· País: España
-· Presenta: Marta Carazo, Ana Roldán.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250303213500 +0100" stop="20250303214000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 4.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250303214000 +0100" stop="20250303225000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La revuelta T1 E92</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20250303225000 +0100" stop="20250304012000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Bake Off: Famosos al horno T2 E9</title>
-    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | +7 | *10.0/10
-· Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 1.
-· País: España
-· Presenta: Paula Vázquez.
-· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
-  </programme>
-  <programme start="20250304012000 +0100" stop="20250304022000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Comerse el mundo T2022 · Valladolid, Yucatán, México</title>
-    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *10.0/10
-· En el corazón Valladolid de Yucatán, Peña descubrirá nuevos productos y sabores. Votos: 1.
-· País: España
-· Presenta: Javier Peña.</desc>
-  </programme>
-  <programme start="20250304022000 +0100" stop="20250304045000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 61.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250304045000 +0100" stop="20250304060000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310035500 +0100" stop="20250310060000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
 · País: España</desc>
   </programme>
-  <programme start="20250304060000 +0100" stop="20250304075000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310060000 +0100" stop="20250310075000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 628.
+· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 639.
 · País: España
 · Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310075000 +0100" stop="20250310104000 +0100" channel="ES: LA 1 HD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16 | *6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 10.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310104000 +0100" stop="20250310140000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Mañaneros T2</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
 · Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 8.
@@ -2210,13 +1864,13 @@
 · Presenta: Adela González, Alberto Herrera, Miriam Moreno.
 · Productora: La Cometa TV.</desc>
   </programme>
-  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310140000 +0100" stop="20250310141000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Información/Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 421.
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
 </desc>
   </programme>
-  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310141000 +0100" stop="20250310150000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Extra mañaneros T1</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
 · Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 10.
@@ -2224,10 +1878,147 @@
 · Presenta: Adela González, Alberto Herrera.
 · Productora: La Cometa TV.</desc>
   </programme>
-  <programme start="20250304150000 +0100" stop="20250304154000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250310150000 +0100" stop="20250310154000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1</title>
     <desc lang="es">Información/Informativo | 2014 | *6.0/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1288.
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310154000 +0100" stop="20250310154500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 8.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310154500 +0100" stop="20250310161000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
+</desc>
+  </programme>
+  <programme start="20250310161000 +0100" stop="20250310162000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información/Meteorología | 2014 | TP | *6.0/10
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310162000 +0100" stop="20250310173500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Salón de té La Moderna T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
+· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 23.
+· País: España
+· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
+· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  </programme>
+  <programme start="20250310173500 +0100" stop="20250310183500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 310.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250310183500 +0100" stop="20250310193000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250310193000 +0100" stop="20250310203000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">El cazador T9</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+  </programme>
+  <programme start="20250310203000 +0100" stop="20250310210000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250310210000 +0100" stop="20250310213500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
+· País: España
+· Presenta: Marta Carazo, Ana Roldán.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310213500 +0100" stop="20250310214000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310214000 +0100" stop="20250310225000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La revuelta T1</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20250310225000 +0100" stop="20250311012000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Bake Off: Famosos al horno T2</title>
+    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | TP | *6.0/10
+· Paula Vázquez presenta este concurso en el que catorce personajes famosos luchan por consagrarse como mejor pastelero o pastelera de España y ganar un premio que donarán a la ONG de su elección. Votos: 10.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+  </programme>
+  <programme start="20250311012000 +0100" stop="20250311021500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Comerse el mundo T2022</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *6.0/10
+· El chef vallisoletano Javier Peña viaja alrededor del mundo con el objetivo de encontrar la esencia de la cocina de cada país. Y todo ello gracias a la ayuda de huéspedes locales que le acercarán lo más auténtico de su cocina. Votos: 38.
+· País: España
+· Presenta: Javier Peña.</desc>
+  </programme>
+  <programme start="20250311021500 +0100" stop="20250311044500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información/Informativo | 2024 | *6.0/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 64.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250304075000 +0100" stop="20250304104000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E43</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20250304104000 +0100" stop="20250304140000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros T2 E134</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+</desc>
+  </programme>
+  <programme start="20250304140000 +0100" stop="20250304141000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
+</desc>
+  </programme>
+  <programme start="20250304141000 +0100" stop="20250304150000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Extra mañaneros T1 E101</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos.
+</desc>
+  </programme>
+  <programme start="20250304150000 +0100" stop="20250304154000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información/Informativo | 2014 | TP | *6.0/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
@@ -2245,103 +2036,94 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
 </desc>
   </programme>
-  <programme start="20250304161000 +0100" stop="20250304162000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250304161000 +0100" stop="20250304161500 +0100" channel="ES: LA 1 SD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información/Meteorología | 2014 | *6.0/10
-· Información sobre la previsión meteorológica de TVE. Votos: 1228.
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250304162000 +0100" stop="20250304173500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Salón de té La Moderna T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
-· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 21.
-· País: España
-· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
-· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  <programme start="20250304161500 +0100" stop="20250304170500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje T1 E109</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16
+· Victoria, superada por la petición del duque, tendrá un día para darle respuesta si quiere conseguir lo que siempre ha deseado. La llegada de Sebastián se recibe en la casa grande con diferentes afectos: desde Leonardo hasta el duque.
+</desc>
+  </programme>
+  <programme start="20250304170500 +0100" stop="20250304173500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Salón de té La Moderna T1 E362</title>
+    <desc lang="es">Series/Drama | 2023 | +12
+· Emiliano hace liberar a Don Fermín para que Jerónimo lo mate. Lucía aparece por sorpresa en La Moderna. Iván se lleva a Maruja de la mansión. Trini no se va a Extremadura a acompañar a su madre por un extraño motivo.
+</desc>
   </programme>
   <programme start="20250304173500 +0100" stop="20250304183500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
-· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 307.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E540</title>
+    <desc lang="es">Series/Drama | 2022 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.
+</desc>
   </programme>
-  <programme start="20250304183500 +0100" stop="20250304193000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
-· Productora: Bambú Producciones.</desc>
+  <programme start="20250304183500 +0100" stop="20250304191300 +0100" channel="ES: LA 1 SD">
+    <title lang="es">El cazador T8 E405</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+</desc>
   </programme>
-  <programme start="20250304193000 +0100" stop="20250304203000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">El cazador T9</title>
+  <programme start="20250304191300 +0100" stop="20250304203000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">El cazador T9 E13</title>
     <desc lang="es">Entretenimiento/Concurso | 2025 | TP
 · Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+</desc>
   </programme>
   <programme start="20250304203000 +0100" stop="20250304210000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 62.
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20250304210000 +0100" stop="20250304213500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información/Informativo | 2021 | TP | *6.0/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1262.
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
 · País: España
 · Presenta: Marta Carazo, Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20250304213500 +0100" stop="20250304214000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *10.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250304214000 +0100" stop="20250304225000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La revuelta T1</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T1 E93</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+</desc>
   </programme>
-  <programme start="20250304225000 +0100" stop="20250305000000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Late Xou con Marc Giró T3</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 11.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250304225000 +0100" stop="20250305000500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Late Xou con Marc Giró T3 E8</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
+· Marc Giró entrevista a los hermanos Torres, que empiezan nueva aventura televisiva.
+</desc>
   </programme>
-  <programme start="20250305000000 +0100" stop="20250305011000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Late Xou con Marc Giró T2</title>
-    <desc lang="es">Entretenimiento/Late Night | 2024 | +12 | *6.0/10
-· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 13.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
+  <programme start="20250305000500 +0100" stop="20250305012000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Late Xou con Marc Giró T1 · Macarena García y Amaia</title>
+    <desc lang="es">Entretenimiento/Late Night | 2023 | +12 | *10.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional. Votos: 1.
+</desc>
   </programme>
-  <programme start="20250305011000 +0100" stop="20250305034000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información/Informativo | 2024 | *6.0/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 60.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250305034000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250305012000 +0100" stop="20250305020000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1930.
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
 · País: España</desc>
+  </programme>
+  <programme start="20250305020000 +0100" stop="20250305060000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Discurso de Donald Trump ante el Congreso</title>
+    <desc lang="es">Información/Política | 2025
+· El presidente Donald Trump pronuncia un discurso en una sesión conjunta del Congreso en lo que es su primer discurso importante desde que asumió su segundo mandato.
+</desc>
   </programme>
   <programme start="20250305060000 +0100" stop="20250305075000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Telediario Matinal</title>
@@ -3041,5 +2823,160 @@
     <desc lang="es">
 · Programa por determinar...
 </desc>
+  </programme>
+  <programme start="20250310035500 +0100" stop="20250310060000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1937.
+· País: España</desc>
+  </programme>
+  <programme start="20250310060000 +0100" stop="20250310075000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva. Votos: 639.
+· País: España
+· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310075000 +0100" stop="20250310104000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16 | *6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 10.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20250310104000 +0100" stop="20250310140000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros T2</title>
+    <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
+· Magazín de actualidad conducido por Adela González, Alberto Herrera y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores. Votos: 8.
+· País: España
+· Presenta: Adela González, Alberto Herrera, Miriam Moreno.
+· Productora: La Cometa TV.</desc>
+  </programme>
+  <programme start="20250310140000 +0100" stop="20250310141000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 426.
+</desc>
+  </programme>
+  <programme start="20250310141000 +0100" stop="20250310150000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Extra mañaneros T1</title>
+    <desc lang="es">Entretenimiento/Magacín | 2024 | +16 | *6.0/10
+· Programa presentado por Adela González y Alberto Herrera que trae cuatro bloques para mantener informado al espectador de todo lo que ocurre junto a información de servicio público sobre temas que preocupan a todos los ciudadanos. Votos: 10.
+· País: España
+· Presenta: Adela González, Alberto Herrera.
+· Productora: La Cometa TV.</desc>
+  </programme>
+  <programme start="20250310150000 +0100" stop="20250310154000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte. Votos: 1293.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310154000 +0100" stop="20250310154500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 8.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310154500 +0100" stop="20250310161000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información/Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE. Votos: 63.
+</desc>
+  </programme>
+  <programme start="20250310161000 +0100" stop="20250310162000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información/Meteorología | 2014 | TP | *6.0/10
+· Información sobre la previsión meteorológica de TVE. Votos: 1234.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310162000 +0100" stop="20250310173500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Salón de té La Moderna T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *6.0/10
+· En el Madrid de 1930, Matilde encuentra trabajo en un salón de té del centro de la ciudad. Votos: 23.
+· País: España
+· Reparto: Helena Ezquerro, Almagro San Miguel, Stéphanie Magnin Vella, Miryam Gallego, José Luis García Pérez.
+· Productora: Radio Televisión Española (RTVE), Mediawan, Boomerang TV.</desc>
+  </programme>
+  <programme start="20250310173500 +0100" stop="20250310183500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series/Drama | 2023 | +12 | *8.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor. Votos: 310.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250310183500 +0100" stop="20250310193000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Series/Telenovela | 2024 | +16 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada. Votos: 29.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, Mari Paz Sayago, José Manuel Seda, Chechu Salgado, Marina Sabadell.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250310193000 +0100" stop="20250310203000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">El cazador T9</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Mediacrest.</desc>
+  </programme>
+  <programme start="20250310203000 +0100" stop="20250310210000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento/Magacín | 2024 | TP | *4.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente. Votos: 64.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250310210000 +0100" stop="20250310213500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Marta Carazo. También hay espacio para la parcela deportiva. Votos: 1267.
+· País: España
+· Presenta: Marta Carazo, Ana Roldán.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250310213500 +0100" stop="20250310214000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *8.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 4.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250310214000 +0100" stop="20250310225000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La revuelta T1</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | +12 | *8.0/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 37.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20250310225000 +0100" stop="20250311012000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Bake Off: Famosos al horno T2</title>
+    <desc lang="es">Entretenimiento/Telerrealidad | 2025 | TP | *6.0/10
+· Paula Vázquez presenta este concurso en el que catorce personajes famosos luchan por consagrarse como mejor pastelero o pastelera de España y ganar un premio que donarán a la ONG de su elección. Votos: 10.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+  </programme>
+  <programme start="20250311012000 +0100" stop="20250311021500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Comerse el mundo T2022</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2022 | TP | *6.0/10
+· El chef vallisoletano Javier Peña viaja alrededor del mundo con el objetivo de encontrar la esencia de la cocina de cada país. Y todo ello gracias a la ayuda de huéspedes locales que le acercarán lo más auténtico de su cocina. Votos: 38.
+· País: España
+· Presenta: Javier Peña.</desc>
+  </programme>
+  <programme start="20250311021500 +0100" stop="20250311044500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información/Informativo | 2024 | *6.0/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada. Votos: 64.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
 </tv>
