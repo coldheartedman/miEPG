@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/03/2025 11:30" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/03/2025 11:31" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,186 +12,32 @@
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20250322110000 +0100" stop="20250322113000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Información/Política | 2012 | TP | *6.0/10
-· Espacio semanal de servicio público sobre la Jefatura del Estado. Votos: 486.
-· Título original: Audiencia Abierta
-· País: España
-· Dirección: Miguel Ángel Sacaluga.</desc>
-  </programme>
-  <programme start="20250322113000 +0100" stop="20250322121800 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Españoles en el mundo T1 · Cabo Verde</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
-  </programme>
-  <programme start="20250322121800 +0100" stop="20250322130600 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Españoles en el mundo T2 · Tanzania</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
-  </programme>
-  <programme start="20250322130600 +0100" stop="20250322135500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Españoles en el mundo T3 · Namibia</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· De la mano de ocho españoles, el programa muestra la belleza de Namibia.
-</desc>
-  </programme>
-  <programme start="20250322135500 +0100" stop="20250322150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">D Corazón T2 E23</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-</desc>
-  </programme>
-  <programme start="20250322150000 +0100" stop="20250322154500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información/Informativo | 2021 | *4.0/10
-· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2175.
-· País: España
-· Presenta: Lara Siscar, Igor Gómez, Marcos López.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250322154500 +0100" stop="20250322155000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 12.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250322155000 +0100" stop="20250322173500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">The Lost Husband</title>
-    <desc lang="es">Cine/Drama | 2020 | +7 | *6.0/10
-· Después de la muerte de su esposo, Libby y sus hijos se mudan a la granja de su tía en Texas. Votos: 16.
-· País: EE.UU.
-· Dirección: Vicky Wight.
-· Reparto: Leslie Bibb, Josh Duhamel, Nora Dunn, Sharon Lawrence, Herizen F. Guardiola.
-· Guion: Vicky Wight, Katherine Center.
-· Productora: Six Foot Pictures.</desc>
-  </programme>
-  <programme start="20250322173500 +0100" stop="20250322190000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Timadoras compulsivas</title>
-    <desc lang="es">Cine/Comedia | 2019 | +7 | *6.0/10
-· Cuando una timadora de poca monta conoce a una estafadora de élite, unen sus fuerzas y emplean técnicas descabelladas para conseguir la fortuna de un multimillonario. Votos: 25.
-· Título original: The Hustle
-· País: EE.UU.
-· Dirección: Chris Addison.
-· Reparto: Anne Hathaway, Rebel Wilson, Alex Sharp, Ingrid Oliver, Emma Davies.
-· Guion: Stanley Shapiro, Paul Henning, Dale Launer, Jac Schaeffer.
-· Música: Anne Dudley.
-· Productora: Metro-Goldwyn-Mayer (MGM).</desc>
-  </programme>
-  <programme start="20250322190000 +0100" stop="20250322210000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Cabriola</title>
-    <desc lang="es">Cine/Comedia | 1965 | +7 | *6.0/10
-· Cabriola es un excelente potro que pertenece a una traperilla que, para moverse mejor en el mundo que le rodea, se hace pasar por muchacho. Votos: 57.
-· País: España
-· Dirección: Mel Ferrer.
-· Reparto: Francisco Camoiras, Jesús Guzmán, Juan Ramón Torremocha, José Marco Davó, Rafael de Córdoba, Ángel Peralta, José Sepúlveda, Marisol, Vala Cliffton.
-· Guion: Mel Ferrer, José María Palacio.
-· Música: Antonio Guijarro, Ángel Peralta, Augusto Algueró (Hijo), Manuel Pareja Obregón.
-· Producción: Manuel J. Goyanes.
-· Productora: Guión Producciones Cinematográficas.</desc>
-  </programme>
-  <programme start="20250322210000 +0100" stop="20250322212500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 2 Fin de Semana</title>
-    <desc lang="es">Información/Informativo | 2017 | *4.0/10
-· Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2215.
-· País: España
-· Presenta: Lara Siscar, Igor Gómez, Marcos López.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250322212500 +0100" stop="20250322213000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional. Votos: 15.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250322213000 +0100" stop="20250322220000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Informe Semanal T24/25 E25</title>
-    <desc lang="es">Información/Reportaje | 2025 | +7
-· Aborda la investigación judicial en torno a la gestión de la Dana de hace cinco meses. Además, su segundo reportaje, 'Tots a una veu', se centra en unas Fallas marcadas por el dolor que arrastran los valencianos desde el 29 de octubre.
-· País: España
-· Dirección: Jenaro Castro Muiña.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250322220000 +0100" stop="20250322220500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones/Juegos | 2024 | TP | *6.0/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números. Votos: 13.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250322220500 +0100" stop="20250322234500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">2 Guns</title>
-    <desc lang="es">Cine/Acción | 2013 | +16 | *8.0/10
-· Tras no recibir de Papi Greco -el capo del cártel mexicano con el que colaboran- el pago acordado, Robert 'Bobby' Trench y Michael 'Stig' Stigman deciden atracar el banco en el que Papi ingresa el dinero todos los meses. Votos: 913.
-· País: EE.UU.
-· Dirección: Baltasar Kormákur.
-· Reparto: Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, James Marsden, Fred Ward, Edward James Olmos, Robert John Burke.
-· Guion: Blake Masters, Steven Grant.
-· Música: Clinton Shorter.
-· Producción: Andrew Cosby, Randall Emmett, Marc Platt, Adam Siegel, Ross Richie.
-· Productora: Universal Pictures, Emmett/Furla Films, Forsight Unlimited, Marc Platt Productions, Universal Pictures Company Inc.</desc>
-  </programme>
-  <programme start="20250322234500 +0100" stop="20250323015000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La Roca</title>
-    <desc lang="es">Cine/Acción | 1996 | +18 | *8.0/10
-· Un experto en armas químicas y un ex convicto son la única esperanza contra unos militares que han tomado la isla de Alcatraz. Votos: 377.
-· Título original: The Rock
-· País: EE.UU.
-· Dirección: Michael Bay.
-· Reparto: Sean Connery, Nicolas Cage, Ed Harris.
-· Música: Harry Gregson-Williams.
-· Productora: Hollywood Pictures.</desc>
-  </programme>
-  <programme start="20250323015000 +0100" stop="20250323031500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La venganza de Don Mendo</title>
-    <desc lang="es">Cine/Comedia | 1961 | TP | *8.0/10
-· El caballero castellano don Mendo Salazar, marqués de Cabra, se considera burlado cuando sabe que su novia Magdalena va a casarse con don Pero Collado, duque de Toro, y jura vengarse a pesar de ser encarcelado por el padre de su enamorada. Votos: 365.
-· País: España
-· Dirección: Fernando Fernán Gómez.
-· Reparto: Fernando Fernán Gómez, Paloma Valdés, Juanjo Menéndez, Antonio Garisa, Joaquín Roa, Lina Canalejas, María Luisa Ponte, José Vivó, Paula Martel.
-· Guion: Fernando Fernán Gómez, Pedro Muñoz Seca.
-· Música: Rafael de Andrés.
-· Productora: Cooperativa Acta.</desc>
-  </programme>
-  <programme start="20250323031500 +0100" stop="20250323060000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
-  </programme>
-  <programme start="20250323060000 +0100" stop="20250323111500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
-  </programme>
   <programme start="20250323111500 +0100" stop="20250323120800 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Españoles en el mundo T3 · Polinesia</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
 · Seis guías muy especiales descubrirán el encanto de las islas de Polinesia.
-</desc>
+· Título original: Españoles en el... (T3): Polinesia Francesa
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323120800 +0100" stop="20250323130100 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Españoles en el mundo T4 · Islas Caimán / Seúl</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2010 | +7
 · Seis españoles muestran las Islas Caimán, el Caribe más internacional.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323130100 +0100" stop="20250323135500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Españoles en el mundo T4 · Trinidad y Tobago</title>
     <desc lang="es">Información/Reportaje | 2010 | TP | *6.0/10
 · El programa viaja a unas islas de ensueño al sur del Caribe. Votos: 5.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323135500 +0100" stop="20250323150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+    <title lang="es">D Corazón T2 E24</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
@@ -237,8 +83,9 @@
   </programme>
   <programme start="20250323185500 +0100" stop="20250323202500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Siempre a tu lado</title>
-    <desc lang="es">Cine/Comedia | 2001 | +16 | *6.0/10
+    <desc lang="es">Cine/Comedia | 2001 | +12 | *6.0/10
 · Tras una ruptura sentimental, una joven comienza a estudiar con intensidad las razones del comportamiento masculino. Votos: 110.
+· Título original: Someone Like You
 · País: EE.UU.
 · Dirección: Tony Goldwyn.
 · Reparto: Ashley Judd, Greg Kinnear, Hugh Jackman, Marisa Tomei, Ellen Barkin, Donna Hanover, Laura Regan, Catherine Dent, Peter Friedman, Mireille Enos.
@@ -249,14 +96,14 @@
   </programme>
   <programme start="20250323202500 +0100" stop="20250323223500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">DIRECTO Cuartos de final: España - Países Bajos T24/25 · UEFA Nations League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20250323223500 +0100" stop="20250324002500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">The Equalizer 2</title>
     <desc lang="es">Cine/Acción | 2018 | +16 | *8.0/10
-· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2013.
+· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2014.
 · País: EE.UU.
 · Dirección: Antoine Fuqua.
 · Reparto: Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean, David Bair, Melissa Leo, Jonathan Scarfe.
@@ -362,19 +209,27 @@
     <title lang="es">Valle Salvaje T1 E123</title>
     <desc lang="es">Series/Telenovela | 2024 | +16
 · El duque sorprende a Mercedes con una noticia sobre su futuro con Victoria.
-</desc>
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20250324173500 +0100" stop="20250324182500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La Promesa T1 E558</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324182500 +0100" stop="20250324193000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La Promesa T1 E559</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324193000 +0100" stop="20250324203000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">El cazador T8 E418</title>
@@ -1039,7 +894,19 @@
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250322110000 +0100" stop="20250322113000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329030500 +0100" stop="20250329060000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329060000 +0100" stop="20250329110000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329110000 +0100" stop="20250329113000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Información/Política | 2012 | TP | *6.0/10
 · Espacio semanal de servicio público sobre la Jefatura del Estado. Votos: 486.
@@ -1047,31 +914,38 @@
 · País: España
 · Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20250322113000 +0100" stop="20250322121800 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Españoles en el mundo T1 · Cabo Verde</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+  <programme start="20250329113000 +0100" stop="20250329121800 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322121800 +0100" stop="20250322130600 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Españoles en el mundo T2 · Tanzania</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+  <programme start="20250329121800 +0100" stop="20250329130600 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322130600 +0100" stop="20250322135500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Españoles en el mundo T3 · Namibia</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· De la mano de ocho españoles, el programa muestra la belleza de Namibia.
-</desc>
+  <programme start="20250329130600 +0100" stop="20250329135500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322135500 +0100" stop="20250322150000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">D Corazón T2 E23</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-</desc>
+  <programme start="20250329135500 +0100" stop="20250329150000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">D Corazón T2</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
-  <programme start="20250322150000 +0100" stop="20250322154500 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329150000 +0100" stop="20250329154500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Información/Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2175.
@@ -1079,48 +953,32 @@
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322154500 +0100" stop="20250322155000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329154500 +0100" stop="20250329155000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
 · Actualidad deportiva diaria nacional e internacional. Votos: 12.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250322155000 +0100" stop="20250322173500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">The Lost Husband</title>
-    <desc lang="es">Cine/Drama | 2020 | +7 | *6.0/10
-· Después de la muerte de su esposo, Libby y sus hijos se mudan a la granja de su tía en Texas. Votos: 16.
-· País: EE.UU.
-· Dirección: Vicky Wight.
-· Reparto: Leslie Bibb, Josh Duhamel, Nora Dunn, Sharon Lawrence, Herizen F. Guardiola.
-· Guion: Vicky Wight, Katherine Center.
-· Productora: Six Foot Pictures.</desc>
+  <programme start="20250329155000 +0100" stop="20250329172500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322173500 +0100" stop="20250322190000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Timadoras compulsivas</title>
-    <desc lang="es">Cine/Comedia | 2019 | +7 | *6.0/10
-· Cuando una timadora de poca monta conoce a una estafadora de élite, unen sus fuerzas y emplean técnicas descabelladas para conseguir la fortuna de un multimillonario. Votos: 25.
-· Título original: The Hustle
-· País: EE.UU.
-· Dirección: Chris Addison.
-· Reparto: Anne Hathaway, Rebel Wilson, Alex Sharp, Ingrid Oliver, Emma Davies.
-· Guion: Stanley Shapiro, Paul Henning, Dale Launer, Jac Schaeffer.
-· Música: Anne Dudley.
-· Productora: Metro-Goldwyn-Mayer (MGM).</desc>
+  <programme start="20250329172500 +0100" stop="20250329191000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322190000 +0100" stop="20250322210000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Cabriola</title>
-    <desc lang="es">Cine/Comedia | 1965 | +7 | *6.0/10
-· Cabriola es un excelente potro que pertenece a una traperilla que, para moverse mejor en el mundo que le rodea, se hace pasar por muchacho. Votos: 57.
-· País: España
-· Dirección: Mel Ferrer.
-· Reparto: Francisco Camoiras, Jesús Guzmán, Juan Ramón Torremocha, José Marco Davó, Rafael de Córdoba, Ángel Peralta, José Sepúlveda, Marisol, Vala Cliffton.
-· Guion: Mel Ferrer, José María Palacio.
-· Música: Antonio Guijarro, Ángel Peralta, Augusto Algueró (Hijo), Manuel Pareja Obregón.
-· Producción: Manuel J. Goyanes.
-· Productora: Guión Producciones Cinematográficas.</desc>
+  <programme start="20250329191000 +0100" stop="20250329210000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322210000 +0100" stop="20250322212500 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329210000 +0100" stop="20250329212500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Información/Informativo | 2017 | *4.0/10
 · Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2215.
@@ -1128,22 +986,22 @@
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322212500 +0100" stop="20250322213000 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329212500 +0100" stop="20250329213000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
 · Actualidad deportiva diaria nacional e internacional. Votos: 15.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250322213000 +0100" stop="20250322220000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Informe Semanal T24/25 E25</title>
-    <desc lang="es">Información/Reportaje | 2025 | +7
-· Aborda la investigación judicial en torno a la gestión de la Dana de hace cinco meses. Además, su segundo reportaje, 'Tots a una veu', se centra en unas Fallas marcadas por el dolor que arrastran los valencianos desde el 29 de octubre.
+  <programme start="20250329213000 +0100" stop="20250329220000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Informe Semanal T24/25</title>
+    <desc lang="es">Información/Reportaje | 2024 | +7 | *6.0/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional. Votos: 11.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322220000 +0100" stop="20250322220500 +0100" channel="ES: LA 1 HD">
+  <programme start="20250329220000 +0100" stop="20250329220500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones/Juegos | 2024 | TP | *6.0/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números. Votos: 13.
@@ -1151,74 +1009,50 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322220500 +0100" stop="20250322234500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">2 Guns</title>
-    <desc lang="es">Cine/Acción | 2013 | +16 | *8.0/10
-· Tras no recibir de Papi Greco -el capo del cártel mexicano con el que colaboran- el pago acordado, Robert 'Bobby' Trench y Michael 'Stig' Stigman deciden atracar el banco en el que Papi ingresa el dinero todos los meses. Votos: 913.
-· País: EE.UU.
-· Dirección: Baltasar Kormákur.
-· Reparto: Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, James Marsden, Fred Ward, Edward James Olmos, Robert John Burke.
-· Guion: Blake Masters, Steven Grant.
-· Música: Clinton Shorter.
-· Producción: Andrew Cosby, Randall Emmett, Marc Platt, Adam Siegel, Ross Richie.
-· Productora: Universal Pictures, Emmett/Furla Films, Forsight Unlimited, Marc Platt Productions, Universal Pictures Company Inc.</desc>
+  <programme start="20250329220500 +0100" stop="20250329234500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322234500 +0100" stop="20250323015000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La Roca</title>
-    <desc lang="es">Cine/Acción | 1996 | +18 | *8.0/10
-· Un experto en armas químicas y un ex convicto son la única esperanza contra unos militares que han tomado la isla de Alcatraz. Votos: 377.
-· Título original: The Rock
-· País: EE.UU.
-· Dirección: Michael Bay.
-· Reparto: Sean Connery, Nicolas Cage, Ed Harris.
-· Música: Harry Gregson-Williams.
-· Productora: Hollywood Pictures.</desc>
+  <programme start="20250329234500 +0100" stop="20250330013500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250323015000 +0100" stop="20250323031500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La venganza de Don Mendo</title>
-    <desc lang="es">Cine/Comedia | 1961 | TP | *8.0/10
-· El caballero castellano don Mendo Salazar, marqués de Cabra, se considera burlado cuando sabe que su novia Magdalena va a casarse con don Pero Collado, duque de Toro, y jura vengarse a pesar de ser encarcelado por el padre de su enamorada. Votos: 365.
-· País: España
-· Dirección: Fernando Fernán Gómez.
-· Reparto: Fernando Fernán Gómez, Paloma Valdés, Juanjo Menéndez, Antonio Garisa, Joaquín Roa, Lina Canalejas, María Luisa Ponte, José Vivó, Paula Martel.
-· Guion: Fernando Fernán Gómez, Pedro Muñoz Seca.
-· Música: Rafael de Andrés.
-· Productora: Cooperativa Acta.</desc>
-  </programme>
-  <programme start="20250323031500 +0100" stop="20250323060000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
-  </programme>
-  <programme start="20250323060000 +0100" stop="20250323111500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
+  <programme start="20250330013500 +0100" stop="20250330030000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250323111500 +0100" stop="20250323120800 +0100" channel="ES: LA 1 HD">
     <title lang="es">Españoles en el mundo T3 · Polinesia</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
 · Seis guías muy especiales descubrirán el encanto de las islas de Polinesia.
-</desc>
+· Título original: Españoles en el... (T3): Polinesia Francesa
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323120800 +0100" stop="20250323130100 +0100" channel="ES: LA 1 HD">
     <title lang="es">Españoles en el mundo T4 · Islas Caimán / Seúl</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2010 | +7
 · Seis españoles muestran las Islas Caimán, el Caribe más internacional.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323130100 +0100" stop="20250323135500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Españoles en el mundo T4 · Trinidad y Tobago</title>
     <desc lang="es">Información/Reportaje | 2010 | TP | *6.0/10
 · El programa viaja a unas islas de ensueño al sur del Caribe. Votos: 5.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323135500 +0100" stop="20250323150000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+    <title lang="es">D Corazón T2 E24</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
@@ -1264,8 +1098,9 @@
   </programme>
   <programme start="20250323185500 +0100" stop="20250323202500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Siempre a tu lado</title>
-    <desc lang="es">Cine/Comedia | 2001 | +16 | *6.0/10
+    <desc lang="es">Cine/Comedia | 2001 | +12 | *6.0/10
 · Tras una ruptura sentimental, una joven comienza a estudiar con intensidad las razones del comportamiento masculino. Votos: 110.
+· Título original: Someone Like You
 · País: EE.UU.
 · Dirección: Tony Goldwyn.
 · Reparto: Ashley Judd, Greg Kinnear, Hugh Jackman, Marisa Tomei, Ellen Barkin, Donna Hanover, Laura Regan, Catherine Dent, Peter Friedman, Mireille Enos.
@@ -1276,14 +1111,14 @@
   </programme>
   <programme start="20250323202500 +0100" stop="20250323223500 +0100" channel="ES: LA 1 HD">
     <title lang="es">DIRECTO Cuartos de final: España - Países Bajos T24/25 · UEFA Nations League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20250323223500 +0100" stop="20250324002500 +0100" channel="ES: LA 1 HD">
     <title lang="es">The Equalizer 2</title>
     <desc lang="es">Cine/Acción | 2018 | +16 | *8.0/10
-· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2013.
+· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2014.
 · País: EE.UU.
 · Dirección: Antoine Fuqua.
 · Reparto: Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean, David Bair, Melissa Leo, Jonathan Scarfe.
@@ -1389,19 +1224,27 @@
     <title lang="es">Valle Salvaje T1 E123</title>
     <desc lang="es">Series/Telenovela | 2024 | +16
 · El duque sorprende a Mercedes con una noticia sobre su futuro con Victoria.
-</desc>
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20250324173500 +0100" stop="20250324182500 +0100" channel="ES: LA 1 HD">
     <title lang="es">La Promesa T1 E558</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324182500 +0100" stop="20250324193000 +0100" channel="ES: LA 1 HD">
     <title lang="es">La Promesa T1 E559</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324193000 +0100" stop="20250324203000 +0100" channel="ES: LA 1 HD">
     <title lang="es">El cazador T8 E418</title>
@@ -2066,7 +1909,19 @@
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250322110000 +0100" stop="20250322113000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329030500 +0100" stop="20250329060000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329060000 +0100" stop="20250329110000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329110000 +0100" stop="20250329113000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Información/Política | 2012 | TP | *6.0/10
 · Espacio semanal de servicio público sobre la Jefatura del Estado. Votos: 486.
@@ -2074,31 +1929,38 @@
 · País: España
 · Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20250322113000 +0100" stop="20250322121800 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Españoles en el mundo T1 · Cabo Verde</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+  <programme start="20250329113000 +0100" stop="20250329121800 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322121800 +0100" stop="20250322130600 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Españoles en el mundo T2 · Tanzania</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países.
-</desc>
+  <programme start="20250329121800 +0100" stop="20250329130600 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322130600 +0100" stop="20250322135500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Españoles en el mundo T3 · Namibia</title>
-    <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
-· De la mano de ocho españoles, el programa muestra la belleza de Namibia.
-</desc>
+  <programme start="20250329130600 +0100" stop="20250329135500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
   </programme>
-  <programme start="20250322135500 +0100" stop="20250322150000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">D Corazón T2 E23</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-</desc>
+  <programme start="20250329135500 +0100" stop="20250329150000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">D Corazón T2</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
-  <programme start="20250322150000 +0100" stop="20250322154500 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329150000 +0100" stop="20250329154500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Información/Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2175.
@@ -2106,48 +1968,32 @@
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322154500 +0100" stop="20250322155000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329154500 +0100" stop="20250329155000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
 · Actualidad deportiva diaria nacional e internacional. Votos: 12.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250322155000 +0100" stop="20250322173500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">The Lost Husband</title>
-    <desc lang="es">Cine/Drama | 2020 | +7 | *6.0/10
-· Después de la muerte de su esposo, Libby y sus hijos se mudan a la granja de su tía en Texas. Votos: 16.
-· País: EE.UU.
-· Dirección: Vicky Wight.
-· Reparto: Leslie Bibb, Josh Duhamel, Nora Dunn, Sharon Lawrence, Herizen F. Guardiola.
-· Guion: Vicky Wight, Katherine Center.
-· Productora: Six Foot Pictures.</desc>
+  <programme start="20250329155000 +0100" stop="20250329172500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322173500 +0100" stop="20250322190000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Timadoras compulsivas</title>
-    <desc lang="es">Cine/Comedia | 2019 | +7 | *6.0/10
-· Cuando una timadora de poca monta conoce a una estafadora de élite, unen sus fuerzas y emplean técnicas descabelladas para conseguir la fortuna de un multimillonario. Votos: 25.
-· Título original: The Hustle
-· País: EE.UU.
-· Dirección: Chris Addison.
-· Reparto: Anne Hathaway, Rebel Wilson, Alex Sharp, Ingrid Oliver, Emma Davies.
-· Guion: Stanley Shapiro, Paul Henning, Dale Launer, Jac Schaeffer.
-· Música: Anne Dudley.
-· Productora: Metro-Goldwyn-Mayer (MGM).</desc>
+  <programme start="20250329172500 +0100" stop="20250329191000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322190000 +0100" stop="20250322210000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Cabriola</title>
-    <desc lang="es">Cine/Comedia | 1965 | +7 | *6.0/10
-· Cabriola es un excelente potro que pertenece a una traperilla que, para moverse mejor en el mundo que le rodea, se hace pasar por muchacho. Votos: 57.
-· País: España
-· Dirección: Mel Ferrer.
-· Reparto: Francisco Camoiras, Jesús Guzmán, Juan Ramón Torremocha, José Marco Davó, Rafael de Córdoba, Ángel Peralta, José Sepúlveda, Marisol, Vala Cliffton.
-· Guion: Mel Ferrer, José María Palacio.
-· Música: Antonio Guijarro, Ángel Peralta, Augusto Algueró (Hijo), Manuel Pareja Obregón.
-· Producción: Manuel J. Goyanes.
-· Productora: Guión Producciones Cinematográficas.</desc>
+  <programme start="20250329191000 +0100" stop="20250329210000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322210000 +0100" stop="20250322212500 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329210000 +0100" stop="20250329212500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Información/Informativo | 2017 | *4.0/10
 · Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2215.
@@ -2155,22 +2001,22 @@
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322212500 +0100" stop="20250322213000 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329212500 +0100" stop="20250329213000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
 · Actualidad deportiva diaria nacional e internacional. Votos: 15.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250322213000 +0100" stop="20250322220000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Informe Semanal T24/25 E25</title>
-    <desc lang="es">Información/Reportaje | 2025 | +7
-· Aborda la investigación judicial en torno a la gestión de la Dana de hace cinco meses. Además, su segundo reportaje, 'Tots a una veu', se centra en unas Fallas marcadas por el dolor que arrastran los valencianos desde el 29 de octubre.
+  <programme start="20250329213000 +0100" stop="20250329220000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Informe Semanal T24/25</title>
+    <desc lang="es">Información/Reportaje | 2024 | +7 | *6.0/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional. Votos: 11.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322220000 +0100" stop="20250322220500 +0100" channel="ES: LA 1 SD">
+  <programme start="20250329220000 +0100" stop="20250329220500 +0100" channel="ES: LA 1 HD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones/Juegos | 2024 | TP | *6.0/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números. Votos: 13.
@@ -2178,74 +2024,50 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250322220500 +0100" stop="20250322234500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">2 Guns</title>
-    <desc lang="es">Cine/Acción | 2013 | +16 | *8.0/10
-· Tras no recibir de Papi Greco -el capo del cártel mexicano con el que colaboran- el pago acordado, Robert 'Bobby' Trench y Michael 'Stig' Stigman deciden atracar el banco en el que Papi ingresa el dinero todos los meses. Votos: 913.
-· País: EE.UU.
-· Dirección: Baltasar Kormákur.
-· Reparto: Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, James Marsden, Fred Ward, Edward James Olmos, Robert John Burke.
-· Guion: Blake Masters, Steven Grant.
-· Música: Clinton Shorter.
-· Producción: Andrew Cosby, Randall Emmett, Marc Platt, Adam Siegel, Ross Richie.
-· Productora: Universal Pictures, Emmett/Furla Films, Forsight Unlimited, Marc Platt Productions, Universal Pictures Company Inc.</desc>
+  <programme start="20250329220500 +0100" stop="20250329234500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250322234500 +0100" stop="20250323015000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La Roca</title>
-    <desc lang="es">Cine/Acción | 1996 | +18 | *8.0/10
-· Un experto en armas químicas y un ex convicto son la única esperanza contra unos militares que han tomado la isla de Alcatraz. Votos: 377.
-· Título original: The Rock
-· País: EE.UU.
-· Dirección: Michael Bay.
-· Reparto: Sean Connery, Nicolas Cage, Ed Harris.
-· Música: Harry Gregson-Williams.
-· Productora: Hollywood Pictures.</desc>
+  <programme start="20250329234500 +0100" stop="20250330013500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250323015000 +0100" stop="20250323031500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La venganza de Don Mendo</title>
-    <desc lang="es">Cine/Comedia | 1961 | TP | *8.0/10
-· El caballero castellano don Mendo Salazar, marqués de Cabra, se considera burlado cuando sabe que su novia Magdalena va a casarse con don Pero Collado, duque de Toro, y jura vengarse a pesar de ser encarcelado por el padre de su enamorada. Votos: 365.
-· País: España
-· Dirección: Fernando Fernán Gómez.
-· Reparto: Fernando Fernán Gómez, Paloma Valdés, Juanjo Menéndez, Antonio Garisa, Joaquín Roa, Lina Canalejas, María Luisa Ponte, José Vivó, Paula Martel.
-· Guion: Fernando Fernán Gómez, Pedro Muñoz Seca.
-· Música: Rafael de Andrés.
-· Productora: Cooperativa Acta.</desc>
-  </programme>
-  <programme start="20250323031500 +0100" stop="20250323060000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
-  </programme>
-  <programme start="20250323060000 +0100" stop="20250323111500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información/Informativo | 2021 | *6.0/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
-· País: España</desc>
+  <programme start="20250330013500 +0100" stop="20250330030000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250323111500 +0100" stop="20250323120800 +0100" channel="ES: LA 1 SD">
     <title lang="es">Españoles en el mundo T3 · Polinesia</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2009 | +7
 · Seis guías muy especiales descubrirán el encanto de las islas de Polinesia.
-</desc>
+· Título original: Españoles en el... (T3): Polinesia Francesa
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323120800 +0100" stop="20250323130100 +0100" channel="ES: LA 1 SD">
     <title lang="es">Españoles en el mundo T4 · Islas Caimán / Seúl</title>
     <desc lang="es">Ocio y Aficiones/Viajes | 2010 | +7
 · Seis españoles muestran las Islas Caimán, el Caribe más internacional.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323130100 +0100" stop="20250323135500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Españoles en el mundo T4 · Trinidad y Tobago</title>
     <desc lang="es">Información/Reportaje | 2010 | TP | *6.0/10
 · El programa viaja a unas islas de ensueño al sur del Caribe. Votos: 5.
-</desc>
+· País: España
+· Productora: New Atlantis.</desc>
   </programme>
   <programme start="20250323135500 +0100" stop="20250323150000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
-· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+    <title lang="es">D Corazón T2 E24</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González.</desc>
   </programme>
@@ -2291,8 +2113,9 @@
   </programme>
   <programme start="20250323185500 +0100" stop="20250323202500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Siempre a tu lado</title>
-    <desc lang="es">Cine/Comedia | 2001 | +16 | *6.0/10
+    <desc lang="es">Cine/Comedia | 2001 | +12 | *6.0/10
 · Tras una ruptura sentimental, una joven comienza a estudiar con intensidad las razones del comportamiento masculino. Votos: 110.
+· Título original: Someone Like You
 · País: EE.UU.
 · Dirección: Tony Goldwyn.
 · Reparto: Ashley Judd, Greg Kinnear, Hugh Jackman, Marisa Tomei, Ellen Barkin, Donna Hanover, Laura Regan, Catherine Dent, Peter Friedman, Mireille Enos.
@@ -2303,14 +2126,14 @@
   </programme>
   <programme start="20250323202500 +0100" stop="20250323223500 +0100" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Cuartos de final: España - Países Bajos T24/25 · UEFA Nations League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Tras el 2-2 de la ida, el pase a semifinales de la Liga de Naciones se decide en Mestalla. El gol de Mikel Merino en las postrimerías del partido en Países Bajos puede ser determinante para el desenlace de la eliminatoria. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20250323223500 +0100" stop="20250324002500 +0100" channel="ES: LA 1 SD">
     <title lang="es">The Equalizer 2</title>
     <desc lang="es">Cine/Acción | 2018 | +16 | *8.0/10
-· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2013.
+· El exagente Robert McCall continúa combatiendo por su cuenta a secuestradores, maltratadores y otros delincuentes que se cruza en su solitaria vida de conductor. Ahora, sin embargo, va a tener que intervenir en un asunto que le afecta personalmente. Votos: 2014.
 · País: EE.UU.
 · Dirección: Antoine Fuqua.
 · Reparto: Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean, David Bair, Melissa Leo, Jonathan Scarfe.
@@ -2416,19 +2239,27 @@
     <title lang="es">Valle Salvaje T1 E123</title>
     <desc lang="es">Series/Telenovela | 2024 | +16
 · El duque sorprende a Mercedes con una noticia sobre su futuro con Victoria.
-</desc>
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20250324173500 +0100" stop="20250324182500 +0100" channel="ES: LA 1 SD">
     <title lang="es">La Promesa T1 E558</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324182500 +0100" stop="20250324193000 +0100" channel="ES: LA 1 SD">
     <title lang="es">La Promesa T1 E559</title>
     <desc lang="es">Series/Drama | 2022 | +12
 · En 1913, una mujer, una venganza y una gran historia de amor.
-</desc>
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20250324193000 +0100" stop="20250324203000 +0100" channel="ES: LA 1 SD">
     <title lang="es">El cazador T8 E418</title>
@@ -3092,5 +2923,138 @@
     <desc lang="es">Entretenimiento/Zapping | 2022 | TP | *6.0/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo. Votos: 6.
 · País: España</desc>
+  </programme>
+  <programme start="20250329030500 +0100" stop="20250329060000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329060000 +0100" stop="20250329110000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información/Informativo | 2021 | *6.0/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España. Votos: 1947.
+· País: España</desc>
+  </programme>
+  <programme start="20250329110000 +0100" stop="20250329113000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Audiencia abierta</title>
+    <desc lang="es">Información/Política | 2012 | TP | *6.0/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado. Votos: 486.
+· Título original: Audiencia Abierta
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
+  </programme>
+  <programme start="20250329113000 +0100" stop="20250329121800 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
+  </programme>
+  <programme start="20250329121800 +0100" stop="20250329130600 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
+  </programme>
+  <programme start="20250329130600 +0100" stop="20250329135500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Españoles en el mundo</title>
+    <desc lang="es">Información/Reportaje | 2017 | +7 | *6.0/10
+· Programa que viaja por todo el mundo a través de emigrantes españoles en otros países. Votos: 170.
+· País: España
+· Dirección: Ricardo Sánchez Montero.
+· Productora: New Atlantis.</desc>
+  </programme>
+  <programme start="20250329135500 +0100" stop="20250329150000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">D Corazón T2</title>
+    <desc lang="es">Entretenimiento/Corazon y sociedad | 2025 | TP | *6.0/10
+· Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan. Votos: 8.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González.</desc>
+  </programme>
+  <programme start="20250329150000 +0100" stop="20250329154500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Información/Informativo | 2021 | *4.0/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos. Votos: 2175.
+· País: España
+· Presenta: Lara Siscar, Igor Gómez, Marcos López.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250329154500 +0100" stop="20250329155000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 12.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250329155000 +0100" stop="20250329172500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250329172500 +0100" stop="20250329191000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250329191000 +0100" stop="20250329210000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250329210000 +0100" stop="20250329212500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <desc lang="es">Información/Informativo | 2017 | *4.0/10
+· Informativo de Televisión Española de los fines de semana. Lara Siscar y Diego Losada se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes. Votos: 2215.
+· País: España
+· Presenta: Lara Siscar, Igor Gómez, Marcos López.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250329212500 +0100" stop="20250329213000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional. Votos: 15.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250329213000 +0100" stop="20250329220000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Informe Semanal T24/25</title>
+    <desc lang="es">Información/Reportaje | 2024 | +7 | *6.0/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional. Votos: 11.
+· País: España
+· Dirección: Jenaro Castro Muiña.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250329220000 +0100" stop="20250329220500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La suerte en tus manos</title>
+    <desc lang="es">Ocio y Aficiones/Juegos | 2024 | TP | *6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números. Votos: 13.
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250329220500 +0100" stop="20250329234500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250329234500 +0100" stop="20250330013500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250330013500 +0100" stop="20250330030000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
