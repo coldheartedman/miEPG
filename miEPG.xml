@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 15/08/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/08/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,143 +12,6 @@
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20250815070000 +0200" stop="20250815083000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información,Informativo | 2023 | *6.2/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815083000 +0200" stop="20250815103500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E161</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20250815103500 +0200" stop="20250815150000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros 360 T1 E85</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
-  </programme>
-  <programme start="20250815150000 +0200" stop="20250815154000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | TP | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815154000 +0200" stop="20250815154500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250815154500 +0200" stop="20250815155000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815155000 +0200" stop="20250815175000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Quédate a mi lado</title>
-    <desc lang="es">Cine,Drama | 1998 | TP | *7/10
-· Isabel es una joven fotógrafa que vive con su novio Luke y con Anna y Ben, los dos hijos que éste tuvo con su ex-mujer Jackie. Isabel y Jackie se odian, pero pronto sus vidas darán un giro total al descubrir que el futuro de los niños está en sus manos.
-· País: EE.UU.
-· Dirección: Chris Columbus.
-· Reparto: Julia Roberts, Susan Sarandon, Ed Harris, Jena Malone, Lynn Whitfield, Liam Aiken, Wagner Moura.
-· Guion: Jessie Nelson, Ron Bass, Steven Rogers, Gigi Levangie, Karel Leigh Hopkins.
-· Música: John Williams.
-· Producción: Wendy Finerman.
-· Productora: Columbia Pictures Corporation.</desc>
-  </programme>
-  <programme start="20250815175000 +0200" stop="20250815193500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">City of Angels</title>
-    <desc lang="es">Cine,Fantástico | 1998 | TP | *6.8/10
-· Seth es un ángel que se preocupa en exceso por las cuestiones humanas y acaba entablando una relación amorosa con una cirujana especializada en dolencias cardíacas y reacia a creer en el Más Allá. Así surge una pasión imposible.
-· País: Alemania y EE.UU.
-· Dirección: Brad Silberling.
-· Reparto: Nicolas Cage, Meg Ryan, Andre Braugher.
-· Guion: Dana Stevens.
-· Música: Gabriel Yared.
-· Productora: Warner Bros.</desc>
-  </programme>
-  <programme start="20250815193500 +0200" stop="20250815210000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">El padre de la criatura</title>
-    <desc lang="es">Cine,Comedia | 1972 | TP | *7/10
-· Un sesentón recibe la noticia de que va a ser abuelo.. pero una revisión de los análisis clínicos confirma que la embarazada no es su hija, sino su esposa.
-· País: España
-· Dirección: Pedro Lazaga.
-· Reparto: Paco Martínez Soria, Florinda Chico, José Sacristán, María José Goyanes, Mirta Miller, Rafael López Somoza, Antonio Ferrandis, Rafaela Aparicio.
-· Guion: Mariano Ozores, Vicente Coello.
-· Música: Antón García Abril.
-· Productora: Filmayer, S.A, Estudios Cinematográficos Roma S.A.</desc>
-  </programme>
-  <programme start="20250815210000 +0200" stop="20250815214000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.4/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Ana Roldán. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Ana Roldán.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815214000 +0200" stop="20250815215000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250815215000 +0200" stop="20250815220000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *5.8/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815220000 +0200" stop="20250815225900 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 imprescindibles</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
-· Viaje musical por los grupos y solistas españoles y extranjeros que triunfaron en los 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250815225900 +0200" stop="20250815235300 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 éxitos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *8/10
-· Viaje musical alrededor de las canciones e intérpretes que encabezaron las listas.
-· País: España</desc>
-  </programme>
-  <programme start="20250815235300 +0200" stop="20250816005000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 temazos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
-· Un viaje musical por las actuaciones de grupos y solistas que triunfaron en los años 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250816005000 +0200" stop="20250816015000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 creativos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.2/10
-· Un divertido viaje por la música y los contenidos más disparatados de TVE.
-· País: España</desc>
-  </programme>
-  <programme start="20250816015000 +0200" stop="20250816060000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250816060000 +0200" stop="20250816102000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20250816102000 +0200" stop="20250816111400 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Viaje al centro de la tele T14 · Inmortales</title>
     <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
@@ -179,7 +42,7 @@
   </programme>
   <programme start="20250816150000 +0200" stop="20250816154000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
@@ -224,7 +87,7 @@
   </programme>
   <programme start="20250816192000 +0200" stop="20250816210000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Búsqueme a esa chica</title>
-    <desc lang="es">Cine,Comedia | 1964 | TP | *6.2/10
+    <desc lang="es">Cine,Comedia | 1964 | TP | *6/10
 · Marisol es una chica de 16 años que, junto a su padre, se gana la vida como artista callejera gracias a los turistas extranjeros que acuden a Mallorca.
 · País: España
 · Dirección: Fernando Palacios.
@@ -268,7 +131,7 @@
   </programme>
   <programme start="20250816234000 +0200" stop="20250817010500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Obsesión</title>
-    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.4/10
+    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.2/10
 · Claire Peterson, profesora de literatura de instituto recién divorciada, conoce a Noah, un atractivo joven que se ha mudado recientemente a la casa de al lado. Alumno del centro en el que imparte clase Claire, el joven logra conquistarla.
 · País: EE.UU.
 · Dirección: Rob Cohen.
@@ -500,7 +363,7 @@
   </programme>
   <programme start="20250818182000 +0200" stop="20250818192000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">La Promesa T1 E655</title>
-    <desc lang="es">Series,Drama | 2025 | +12
+    <desc lang="es">Series,Drama | 2025 | +12 | *10/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -976,7 +839,13 @@
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815070000 +0200" stop="20250815083000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250822025500 +0200" stop="20250822070000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250822070000 +0200" stop="20250822083000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
 · Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -984,77 +853,86 @@
 · Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815083000 +0200" stop="20250815103500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E161</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250822083000 +0200" stop="20250822103500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250815103500 +0200" stop="20250815150000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Mañaneros 360 T1 E85</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250822103500 +0200" stop="20250822150000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Mañaneros 360 T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
-  <programme start="20250815150000 +0200" stop="20250815154000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250822150000 +0200" stop="20250822153500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815154000 +0200" stop="20250815154500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250822153500 +0200" stop="20250822154000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250815154500 +0200" stop="20250815155000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250822154000 +0200" stop="20250822154500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815155000 +0200" stop="20250815175000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Quédate a mi lado</title>
-    <desc lang="es">Cine,Drama | 1998 | TP | *7/10
-· Isabel es una joven fotógrafa que vive con su novio Luke y con Anna y Ben, los dos hijos que éste tuvo con su ex-mujer Jackie. Isabel y Jackie se odian, pero pronto sus vidas darán un giro total al descubrir que el futuro de los niños está en sus manos.
-· País: EE.UU.
-· Dirección: Chris Columbus.
-· Reparto: Julia Roberts, Susan Sarandon, Ed Harris, Jena Malone, Lynn Whitfield, Liam Aiken, Wagner Moura.
-· Guion: Jessie Nelson, Ron Bass, Steven Rogers, Gigi Levangie, Karel Leigh Hopkins.
-· Música: John Williams.
-· Producción: Wendy Finerman.
-· Productora: Columbia Pictures Corporation.</desc>
+  <programme start="20250822154500 +0200" stop="20250822155500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.
+</desc>
   </programme>
-  <programme start="20250815175000 +0200" stop="20250815193500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">City of Angels</title>
-    <desc lang="es">Cine,Fantástico | 1998 | TP | *6.8/10
-· Seth es un ángel que se preocupa en exceso por las cuestiones humanas y acaba entablando una relación amorosa con una cirujana especializada en dolencias cardíacas y reacia a creer en el Más Allá. Así surge una pasión imposible.
-· País: Alemania y EE.UU.
-· Dirección: Brad Silberling.
-· Reparto: Nicolas Cage, Meg Ryan, Andre Braugher.
-· Guion: Dana Stevens.
-· Música: Gabriel Yared.
-· Productora: Warner Bros.</desc>
-  </programme>
-  <programme start="20250815193500 +0200" stop="20250815210000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">El padre de la criatura</title>
-    <desc lang="es">Cine,Comedia | 1972 | TP | *7/10
-· Un sesentón recibe la noticia de que va a ser abuelo.. pero una revisión de los análisis clínicos confirma que la embarazada no es su hija, sino su esposa.
+  <programme start="20250822155500 +0200" stop="20250822172000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
+· Aida Bao presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
-· Dirección: Pedro Lazaga.
-· Reparto: Paco Martínez Soria, Florinda Chico, José Sacristán, María José Goyanes, Mirta Miller, Rafael López Somoza, Antonio Ferrandis, Rafaela Aparicio.
-· Guion: Mariano Ozores, Vicente Coello.
-· Música: Antón García Abril.
-· Productora: Filmayer, S.A, Estudios Cinematográficos Roma S.A.</desc>
+· Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250815210000 +0200" stop="20250815214000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250822172000 +0200" stop="20250822181000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje T2</title>
+    <desc lang="es">Series,Telenovela | 2024 | +12 | *6.4/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250822181000 +0200" stop="20250822191000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250822191000 +0200" stop="20250822194000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">El club de La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12 | *6.4/10
+· Varios seguidores de la emblemática serie analizan lo más destacado del capítulo.
+· País: España</desc>
+  </programme>
+  <programme start="20250822194000 +0200" stop="20250822210000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento,Magacín | 2024 | TP | *5.8/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250822210000 +0200" stop="20250822220000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Ana Roldán. También hay espacio para la parcela deportiva.
@@ -1062,56 +940,17 @@
 · Presenta: Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815214000 +0200" stop="20250815215000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  <programme start="20250822220000 +0200" stop="20250823003000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250815215000 +0200" stop="20250815220000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *5.8/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815220000 +0200" stop="20250815225900 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 imprescindibles</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
-· Viaje musical por los grupos y solistas españoles y extranjeros que triunfaron en los 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250815225900 +0200" stop="20250815235300 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 éxitos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *8/10
-· Viaje musical alrededor de las canciones e intérpretes que encabezaron las listas.
-· País: España</desc>
-  </programme>
-  <programme start="20250815235300 +0200" stop="20250816005000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 temazos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
-· Un viaje musical por las actuaciones de grupos y solistas que triunfaron en los años 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250816005000 +0200" stop="20250816015000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 creativos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.2/10
-· Un divertido viaje por la música y los contenidos más disparatados de TVE.
-· País: España</desc>
-  </programme>
-  <programme start="20250816015000 +0200" stop="20250816060000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250816060000 +0200" stop="20250816102000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
+  <programme start="20250823003000 +0200" stop="20250823022500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250816102000 +0200" stop="20250816111400 +0200" channel="ES: LA 1 HD">
     <title lang="es">Viaje al centro de la tele T14 · Inmortales</title>
@@ -1143,7 +982,7 @@
   </programme>
   <programme start="20250816150000 +0200" stop="20250816154000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
@@ -1188,7 +1027,7 @@
   </programme>
   <programme start="20250816192000 +0200" stop="20250816210000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Búsqueme a esa chica</title>
-    <desc lang="es">Cine,Comedia | 1964 | TP | *6.2/10
+    <desc lang="es">Cine,Comedia | 1964 | TP | *6/10
 · Marisol es una chica de 16 años que, junto a su padre, se gana la vida como artista callejera gracias a los turistas extranjeros que acuden a Mallorca.
 · País: España
 · Dirección: Fernando Palacios.
@@ -1232,7 +1071,7 @@
   </programme>
   <programme start="20250816234000 +0200" stop="20250817010500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Obsesión</title>
-    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.4/10
+    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.2/10
 · Claire Peterson, profesora de literatura de instituto recién divorciada, conoce a Noah, un atractivo joven que se ha mudado recientemente a la casa de al lado. Alumno del centro en el que imparte clase Claire, el joven logra conquistarla.
 · País: EE.UU.
 · Dirección: Rob Cohen.
@@ -1464,7 +1303,7 @@
   </programme>
   <programme start="20250818182000 +0200" stop="20250818192000 +0200" channel="ES: LA 1 HD">
     <title lang="es">La Promesa T1 E655</title>
-    <desc lang="es">Series,Drama | 2025 | +12
+    <desc lang="es">Series,Drama | 2025 | +12 | *10/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -1940,7 +1779,13 @@
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815070000 +0200" stop="20250815083000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250822025500 +0200" stop="20250822070000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250822070000 +0200" stop="20250822083000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
 · Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -1948,77 +1793,86 @@
 · Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815083000 +0200" stop="20250815103500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E161</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250822083000 +0200" stop="20250822103500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250815103500 +0200" stop="20250815150000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Mañaneros 360 T1 E85</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250822103500 +0200" stop="20250822150000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Mañaneros 360 T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
-  <programme start="20250815150000 +0200" stop="20250815154000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250822150000 +0200" stop="20250822153500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815154000 +0200" stop="20250815154500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250822153500 +0200" stop="20250822154000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250815154500 +0200" stop="20250815155000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250822154000 +0200" stop="20250822154500 +0200" channel="ES: LA 1 HD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815155000 +0200" stop="20250815175000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Quédate a mi lado</title>
-    <desc lang="es">Cine,Drama | 1998 | TP | *7/10
-· Isabel es una joven fotógrafa que vive con su novio Luke y con Anna y Ben, los dos hijos que éste tuvo con su ex-mujer Jackie. Isabel y Jackie se odian, pero pronto sus vidas darán un giro total al descubrir que el futuro de los niños está en sus manos.
-· País: EE.UU.
-· Dirección: Chris Columbus.
-· Reparto: Julia Roberts, Susan Sarandon, Ed Harris, Jena Malone, Lynn Whitfield, Liam Aiken, Wagner Moura.
-· Guion: Jessie Nelson, Ron Bass, Steven Rogers, Gigi Levangie, Karel Leigh Hopkins.
-· Música: John Williams.
-· Producción: Wendy Finerman.
-· Productora: Columbia Pictures Corporation.</desc>
+  <programme start="20250822154500 +0200" stop="20250822155500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.
+</desc>
   </programme>
-  <programme start="20250815175000 +0200" stop="20250815193500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">City of Angels</title>
-    <desc lang="es">Cine,Fantástico | 1998 | TP | *6.8/10
-· Seth es un ángel que se preocupa en exceso por las cuestiones humanas y acaba entablando una relación amorosa con una cirujana especializada en dolencias cardíacas y reacia a creer en el Más Allá. Así surge una pasión imposible.
-· País: Alemania y EE.UU.
-· Dirección: Brad Silberling.
-· Reparto: Nicolas Cage, Meg Ryan, Andre Braugher.
-· Guion: Dana Stevens.
-· Música: Gabriel Yared.
-· Productora: Warner Bros.</desc>
-  </programme>
-  <programme start="20250815193500 +0200" stop="20250815210000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">El padre de la criatura</title>
-    <desc lang="es">Cine,Comedia | 1972 | TP | *7/10
-· Un sesentón recibe la noticia de que va a ser abuelo.. pero una revisión de los análisis clínicos confirma que la embarazada no es su hija, sino su esposa.
+  <programme start="20250822155500 +0200" stop="20250822172000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
+· Aida Bao presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
-· Dirección: Pedro Lazaga.
-· Reparto: Paco Martínez Soria, Florinda Chico, José Sacristán, María José Goyanes, Mirta Miller, Rafael López Somoza, Antonio Ferrandis, Rafaela Aparicio.
-· Guion: Mariano Ozores, Vicente Coello.
-· Música: Antón García Abril.
-· Productora: Filmayer, S.A, Estudios Cinematográficos Roma S.A.</desc>
+· Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250815210000 +0200" stop="20250815214000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250822172000 +0200" stop="20250822181000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje T2</title>
+    <desc lang="es">Series,Telenovela | 2024 | +12 | *6.4/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250822181000 +0200" stop="20250822191000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250822191000 +0200" stop="20250822194000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">El club de La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12 | *6.4/10
+· Varios seguidores de la emblemática serie analizan lo más destacado del capítulo.
+· País: España</desc>
+  </programme>
+  <programme start="20250822194000 +0200" stop="20250822210000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento,Magacín | 2024 | TP | *5.8/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250822210000 +0200" stop="20250822220000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Ana Roldán. También hay espacio para la parcela deportiva.
@@ -2026,56 +1880,17 @@
 · Presenta: Ana Roldán.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250815214000 +0200" stop="20250815215000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  <programme start="20250822220000 +0200" stop="20250823003000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
-  <programme start="20250815215000 +0200" stop="20250815220000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *5.8/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250815220000 +0200" stop="20250815225900 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 imprescindibles</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
-· Viaje musical por los grupos y solistas españoles y extranjeros que triunfaron en los 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250815225900 +0200" stop="20250815235300 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 éxitos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *8/10
-· Viaje musical alrededor de las canciones e intérpretes que encabezaron las listas.
-· País: España</desc>
-  </programme>
-  <programme start="20250815235300 +0200" stop="20250816005000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 temazos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
-· Un viaje musical por las actuaciones de grupos y solistas que triunfaron en los años 70.
-· País: España</desc>
-  </programme>
-  <programme start="20250816005000 +0200" stop="20250816015000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · 70 creativos</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.2/10
-· Un divertido viaje por la música y los contenidos más disparatados de TVE.
-· País: España</desc>
-  </programme>
-  <programme start="20250816015000 +0200" stop="20250816060000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250816060000 +0200" stop="20250816102000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
+  <programme start="20250823003000 +0200" stop="20250823022500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250816102000 +0200" stop="20250816111400 +0200" channel="ES: LA 1 SD">
     <title lang="es">Viaje al centro de la tele T14 · Inmortales</title>
@@ -2107,7 +1922,7 @@
   </programme>
   <programme start="20250816150000 +0200" stop="20250816154000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Lara Siscar, Igor Gómez, Marcos López.
@@ -2152,7 +1967,7 @@
   </programme>
   <programme start="20250816192000 +0200" stop="20250816210000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Búsqueme a esa chica</title>
-    <desc lang="es">Cine,Comedia | 1964 | TP | *6.2/10
+    <desc lang="es">Cine,Comedia | 1964 | TP | *6/10
 · Marisol es una chica de 16 años que, junto a su padre, se gana la vida como artista callejera gracias a los turistas extranjeros que acuden a Mallorca.
 · País: España
 · Dirección: Fernando Palacios.
@@ -2196,7 +2011,7 @@
   </programme>
   <programme start="20250816234000 +0200" stop="20250817010500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Obsesión</title>
-    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.4/10
+    <desc lang="es">Cine,Thriller | 2015 | +16 | *6.2/10
 · Claire Peterson, profesora de literatura de instituto recién divorciada, conoce a Noah, un atractivo joven que se ha mudado recientemente a la casa de al lado. Alumno del centro en el que imparte clase Claire, el joven logra conquistarla.
 · País: EE.UU.
 · Dirección: Rob Cohen.
@@ -2428,7 +2243,7 @@
   </programme>
   <programme start="20250818182000 +0200" stop="20250818192000 +0200" channel="ES: LA 1 SD">
     <title lang="es">La Promesa T1 E655</title>
-    <desc lang="es">Series,Drama | 2025 | +12
+    <desc lang="es">Series,Drama | 2025 | +12 | *10/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -2903,5 +2718,118 @@
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250822025500 +0200" stop="20250822070000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250822070000 +0200" stop="20250822083000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
+· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250822083000 +0200" stop="20250822103500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20250822103500 +0200" stop="20250822150000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros 360 T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+  </programme>
+  <programme start="20250822150000 +0200" stop="20250822153500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250822153500 +0200" stop="20250822154000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250822154000 +0200" stop="20250822154500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250822154500 +0200" stop="20250822155500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.
+</desc>
+  </programme>
+  <programme start="20250822155500 +0200" stop="20250822172000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
+· Aida Bao presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+  </programme>
+  <programme start="20250822172000 +0200" stop="20250822181000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje T2</title>
+    <desc lang="es">Series,Telenovela | 2024 | +12 | *6.4/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250822181000 +0200" stop="20250822191000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250822191000 +0200" stop="20250822194000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El club de La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12 | *6.4/10
+· Varios seguidores de la emblemática serie analizan lo más destacado del capítulo.
+· País: España</desc>
+  </programme>
+  <programme start="20250822194000 +0200" stop="20250822210000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento,Magacín | 2024 | TP | *5.8/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250822210000 +0200" stop="20250822220000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.4/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Ana Roldán. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Ana Roldán.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250822220000 +0200" stop="20250823003000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250823003000 +0200" stop="20250823022500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
