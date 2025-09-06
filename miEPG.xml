@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/09/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/09/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,198 +12,49 @@
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20250905075000 +0200" stop="20250905103500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E176</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+  <programme start="20250906110000 +0200" stop="20250906113000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Audiencia abierta</title>
+    <desc lang="es">Información,Política | 2012 | TP | *6/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
 · País: España
-· Dirección: Silvia Intxaurrondo.</desc>
+· Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20250905103500 +0200" stop="20250905150000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros 360 T2 E5</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
-  </programme>
-  <programme start="20250905150000 +0200" stop="20250905153500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250905153500 +0200" stop="20250905154000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250905154000 +0200" stop="20250905154500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250905154500 +0200" stop="20250905155500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información,Informativo | 2023 | *6/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-</desc>
-  </programme>
-  <programme start="20250905155500 +0200" stop="20250905173000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">DIRECTO Final Etapa 13 - Cabezón de la Sal - Angliru T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | *6/10
-· El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
-· País: España</desc>
-  </programme>
-  <programme start="20250905173000 +0200" stop="20250905182500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje T3 E8</title>
-    <desc lang="es">Series,Telenovela | 2025 | +16
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250905182500 +0200" stop="20250905192000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1 E670</title>
-    <desc lang="es">Series,Drama | 2025 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20250905192000 +0200" stop="20250905203000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Malas lenguas T1 E167</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
-· Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-  </programme>
-  <programme start="20250905203000 +0200" stop="20250905210000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20250905210000 +0200" stop="20250905214500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.4/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250905214500 +0200" stop="20250905215000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20250905215000 +0200" stop="20250905220000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20250905220000 +0200" stop="20250905224800 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
-  </programme>
-  <programme start="20250905224800 +0200" stop="20250905234300 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
-  </programme>
-  <programme start="20250905234300 +0200" stop="20250906003600 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.6/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
-  </programme>
-  <programme start="20250906003600 +0200" stop="20250906012500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
-  </programme>
-  <programme start="20250906012500 +0200" stop="20250906025500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Sí quiero</title>
-    <desc lang="es">Cine para televisión,Cine TV comedia | 2013 | +12 | *5.6/10
-· Cuando el pastor Hans-Uwe Petersen se entera de que su parroquia de Toestrup se fusionará con la parroquia vecina de Norderup, se ve presionado. Le gustaría asumir la responsabilidad.
-· País: Alemania
-· Dirección: Walter Weber.
-· Reparto: Gerburg Jahnke, Elena Uhlig, Bjarne Mädel, Peter Heinrich Brix, Ulrike Kriener.
-· Guion: Georg Weber.
-· Productora: Zweites Deutsches Fernsehen (ZDF), Network Movie Film-und Fernsehproduktion.</desc>
-  </programme>
-  <programme start="20250906025500 +0200" stop="20250906060000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906060000 +0200" stop="20250906100000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906100000 +0200" stop="20250906105400 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+  <programme start="20250906113000 +0200" stop="20250906122100 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele T14 · ¿Quién dijo miedo?</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
+· Sorprendente viaje a través de las primeras apariciones de varias personalidades.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250906105400 +0200" stop="20250906120700 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-  </programme>
-  <programme start="20250906120700 +0200" stop="20250906131500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+  <programme start="20250906122100 +0200" stop="20250906131500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Especial Miguel Bosé (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8/10
+· Primera parte del programa especial sobre Miguel Bosé, con sus temas más emblemáticos, entrevistas al artista, duetos, versiones, imitaciones, su lado más personal, estilismos y el fenómeno fan.
+· País: España</desc>
   </programme>
   <programme start="20250906131500 +0200" stop="20250906150000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+    <title lang="es">D Corazón T2 E69</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250906150000 +0200" stop="20250906154000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250906150000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906154000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250906154500 +0200" stop="20250906155000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250906154500 +0200" stop="20250906155500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250906155000 +0200" stop="20250906155500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
@@ -211,23 +62,34 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906155500 +0200" stop="20250906175500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250906155500 +0200" stop="20250906172500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">DIRECTO Final Etapa 14 - Avilés - La Farrapona - Lagos de Somiedo T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *5/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
   </programme>
-  <programme start="20250906175500 +0200" stop="20250906193500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906172500 +0200" stop="20250906193000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Camino a la perdición</title>
+    <desc lang="es">Cine,Drama | 2002 | +16 | *7.8/10
+· Michael Sullivan, un asesino a sueldo de la mafia irlandesa de Chicago durante la época de la Depresión, se ve obligado a huir con su hijo tras perder al resto de su familia a manos de los hombres para los que trabaja.
+· País: EE.UU.
+· Dirección: Sam Mendes.
+· Reparto: Daniel Craig, Paul Newman, Tom Hanks, Stanley Tucci, Tyler Hoechlin, Liam Aiken, Jennifer Jason Leigh, Jude Law, Ciarán Hinds, David Darlow, Phil Ridarelli, Lance Baker, Rob Maxey, Juanita Wilson, Roderick Peeples.
+· Guion: David Self.
+· Música: John M Williams, Thomas Newman.
+· Producción: Sam Mendes, Richard D Zanuck, Dean Zanuck.
+· Productora: Twentieth Century Fox, The Zanuck Company, DreamWorks SKG.</desc>
   </programme>
-  <programme start="20250906193500 +0200" stop="20250906210000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906193000 +0200" stop="20250906210000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Jenaro, el de los 14</title>
+    <desc lang="es">Cine,Comedia | 1974 | +12 | *6.4/10
+· Jenaro es el pregonero del pueblo. Tras el acierto de una quiniela de catorce resultados, premiada con muchos millones, su vida cambia por completo. De la noche a la mañana, todas las mujeres quieren casarse con él.
+· País: España
+· Dirección: Mariano Ozores.
+· Reparto: Alfredo Landa, María Luisa San José, Mari Carmen Prendes, Valeriano Andrés, Mirta Miller.
+· Guion: Mariano Ozores, Vicente Coello.
+· Música: Antón García Abril.
+· Productora: Estudios Cinematográficos Roma S.A, Filmayer, S.A.</desc>
   </programme>
   <programme start="20250906210000 +0200" stop="20250906212500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -245,141 +107,191 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250906213000 +0200" stop="20250906220000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Informe Semanal T24/25</title>
-    <desc lang="es">Información,Reportaje | 2024 | +7 | *6/10
+    <title lang="es">Informe Semanal T25/26 E1</title>
+    <desc lang="es">Información,Reportaje | 2025 | +7
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250906233500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906220000 +0200" stop="20250906234000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Upgrade: Primera clase</title>
+    <desc lang="es">Cine,Comedia | 2024 | +16
+· Ana, aspirante a becaria en una galería de arte, acaba en primera clase de forma inesperada en un vuelo de trabajo a Londres con su jefa. Mientras se acostumbra a un estilo de vida más cómodo en el avión, conoce al rico y apuesto William y decide...
+· País: EE.UU.
+· Dirección: Carlson Young.
+· Reparto: Camila Mendes, Archie Renaux, Marisa Tomei, Lena Olin, Anthony Head.
+· Guion: Justin Matthews, Christine Lenig, Luke Spencer Roberts.
+· Música: Isom Innis.
+· Productora: Luber Roklin Entertainment, Gulfstream Pictures.</desc>
   </programme>
-  <programme start="20250906233500 +0200" stop="20250907012000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906234000 +0200" stop="20250907011000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">El chico ideal</title>
+    <desc lang="es">Cine,Comedia romántica | 1998 | TP | *6.6/10
+· Robbie, cantante en banquetes de boda, está a punto de casarse... pero su novia lo deja plantado ante el altar. Julia trabaja como camarera y también está a punto de casarse... pero deja a su novio al descubrir su verdadera personalidad.
+· País: EE.UU.
+· Dirección: Frank Coraci.
+· Reparto: Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert, Alexis Arquette, Billy Idol, Steve Buscemi, Jon Lovitz, Kevin Nealon, Angela Featherstone, Matthew Glave, Ellen Albertini Dow, Christina Pickles.
+· Guion: Tim Herlihy.
+· Música: Teddy Castellucci.
+· Producción: Jack Giarraputo.
+· Productora: Brad Grey, Sandy Wernick, New Line Cinema.</desc>
   </programme>
-  <programme start="20250907012000 +0200" stop="20250907025500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907011000 +0200" stop="20250907024500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">El crucero de los sueños: Bahamas</title>
+    <desc lang="es">Cine para televisión,Cine TV drama | 2023 | TP | *7.2/10
+· El itinerario del barco lleva al capitán Max Parger y su tripulación a las Bahamas en un viaje que tiene grandes sorpresas reservadas para algunos de los pasajeros.
+· País: Alemania
+· Dirección: Marc Prill.
+· Reparto: Florian Silbereisen, Barbara Wussow, Collien Ulmen-Fernandes, Carolina Vera, Daniel Morgenroth.
+· Guion: Jochen S Franken, Martin Wilke.
+· Productora: Galaxy Productions, Polyphon Film-und Fernsehgesellschaft.</desc>
   </programme>
-  <programme start="20250907025500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250907024500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907060000 +0200" stop="20250907103000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250907060000 +0200" stop="20250907101000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907103000 +0200" stop="20250907112000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele T10</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+  <programme start="20250907101000 +0200" stop="20250907111000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele T14 · Presentado por</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250907112000 +0200" stop="20250907121400 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Entretenimiento,Zapping | 2018 | TP | *6.2/10
+  <programme start="20250907111000 +0200" stop="20250907121100 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Top baladas (primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907121400 +0200" stop="20250907131000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
+  <programme start="20250907121100 +0200" stop="20250907131500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Historia de una canción exprés (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907131000 +0200" stop="20250907150000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+  <programme start="20250907131500 +0200" stop="20250907150000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">D Corazón T2 E70</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250907150000 +0200" stop="20250907154000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250907150000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
-· Presenta: Lara Siscar, Igor Gómez, Marcos López.
+· Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250907154000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
+  <programme start="20250907155000 +0200" stop="20250907173000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Book Club - Ahora Italia</title>
+    <desc lang="es">Cine,Comedia dramática | 2023 | +7 | *6/10
+· Después de una larga pandemia, el club de lectura se reencuentra con la noticia de que Vivian se va a casar, y, tras redescubrir en un antiguo diario aquel viaje a Italia que nunca hicieron de jóvenes, deciden organizar la despedida de soltera allí.
+· País: EE.UU.
+· Dirección: Bill Holderman.
+· Reparto: Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen, Craig T. Nelson, Giancarlo Giannini, Andy Garcia, Don Johnson.
+· Guion: Bill Holderman, Erin Simms.
+· Música: Tom Howe.
+· Producción: Bill Holderman, Erin Simms.
+· Productora: Focus Features, Apartment Story.</desc>
   </programme>
-  <programme start="20250907155000 +0200" stop="20250907175000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907173000 +0200" stop="20250907185500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Míos, tuyos, nuestros</title>
+    <desc lang="es">Cine,Comedia | 2005 | TP | *7.2/10
+· Narra las peripecias de dos padres divorciados con diez y ocho hijos respectivamente, y cómo sus planes de matrimonio (que incluyen encontrar una casa para todos ellos) se verán saboteados.
+· País: EE.UU.
+· Dirección: Raja Gosnell.
+· Reparto: Dennis Quaid, Rene Russo, Sean Faris, Jerry O'Connell, Linda Hunt, Katija Pevec, Dean Collins, Tyler Patrick Jones.
+· Guion: David Kidd, Ron Burch.
+· Música: Christophe Beck.
+· Producción: Robert Simonds, Michael G. Nathanson.
+· Productora: Columbia Pictures Corporation, Sean Faris, Robert Simonds Productions, Time Productions Inc.</desc>
   </programme>
-  <programme start="20250907175000 +0200" stop="20250907203000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907185500 +0200" stop="20250907203000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Tú la letra, yo la música</title>
+    <desc lang="es">Cine,Comedia romántica | 2007 | TP | *7.2/10
+· Alex Fletcher es una vieja gloria de la música pop de la década de 1980 del que ya nadie se acuerda. Mientras su compañero de banda triunfa en su carrera en solitario, él debe conformarse con aparecer en un 'reality show' sobre cantantes acabados.
+· País: EE.UU.
+· Dirección: Marc Lawrence.
+· Reparto: Hugh Grant, Drew Barrymore, Brad Garrett, Kristen Johnston, Campbell Scott, Haley Bennett.
+· Guion: Marc Lawrence.
+· Música: Adam Schlesinger.
+· Producción: Liz Glotzer, Martin Shafer.
+· Productora: Castle Rock Entertainment, Village Roadshow Pictures, Flower Films.</desc>
   </programme>
-  <programme start="20250907203000 +0200" stop="20250907225500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250907203000 +0200" stop="20250907223500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">DIRECTO Turquía - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
     <desc lang="es">Deportes,Fútbol | 2025 | *8.4/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.
-</desc>
+· País: Turquía</desc>
   </programme>
-  <programme start="20250907225500 +0200" stop="20250908013000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907223500 +0200" stop="20250908001500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">El maestro que prometió el mar</title>
+    <desc lang="es">Cine,Biopic | 2023 | +12 | *8/10
+· En 2010, Ariadna viaja de Barcelona al Monte de la Pedraja, en Burgos, para averiguar si los restos de su bisabuelo están en la fosa común que se está excavando. Un anciano de la zona también confía encontrar allí los del maestro que le prometió el mar.
+· País: España
+· Dirección: Patricia Font.
+· Reparto: Enric Auquer, Laia Costa, Luisa Gavasa, Ramón Agirre, Alba Guilera, Gael Aparicio, Alba Hermoso, Nicolás Calvo, Antonio Mora, Milo Taboada.
+· Guion: Albert Val.
+· Música: Natasha Arizu del Valle.
+· Producción: Tono Folguera, Francesc Escribano.
+· Productora: Filmax, Institut Català de les Empreses Culturals (ICEC), Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Mestres Films, Lastor Media.</desc>
   </programme>
-  <programme start="20250908013000 +0200" stop="20250908025500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250908001500 +0200" stop="20250908015000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Intemperie</title>
+    <desc lang="es">Cine,Drama | 2019 | +16 | *8/10
+· 1946. En la España sumisa y pobre surgida tras la Guerra Civil, un niño escapa del implacable capataz del cortijo en el que vive. Perseguido por el capataz y sus hombres, intenta huir hacia la ciudad atravesando un paisaje hostil y desolado.
+· País: España y Portugal
+· Dirección: Benito Zambrano.
+· Reparto: Luis Tosar, Luis Callejo, Jaime López, Vicente Romero, Kandido Uranga, Juanjo Pérez Yuste, Adriano Carvalho, Manolo Caro.
+· Guion: Daniel Remón, Pablo Remón, Benito Zambrano.
+· Música: Mikel Salas.
+· Producción: Pedro Uriol, Juan Gordon.
+· Productora: Morena Films S.L, Áralan Films S.L, Intemperie la Película A.I.E., Ukbar Filmes, Radio Televisión Española (RTVE), Canal Sur, Movistar+, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA).</desc>
   </programme>
-  <programme start="20250908025500 +0200" stop="20250908070000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250908015000 +0200" stop="20250908033000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La mula</title>
+    <desc lang="es">Cine,Drama | 2013 | +12 | *6.4/10
+· El cabo Juan Castro, un joven de Jaén que combate en el bando nacional, encuentra una mula perdida en medio del campo de batalla y decide esconderla para llevársela a casa al final de la guerra.
+· País: España
+· Dirección: Michael Radford.
+· Reparto: Luis Callejo, María Valverde, Secun de la Rosa, Mario Casas, Antonio Gil-Martinez.
+· Productora: Integral Films, Gheko Films.</desc>
+  </programme>
+  <programme start="20250908033000 +0200" stop="20250908060000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250908070000 +0200" stop="20250908083000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250908060000 +0200" stop="20250908075000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908083000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+  <programme start="20250908075000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E177</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -426,38 +338,37 @@
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250908172000 +0200" stop="20250908181000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12
+  <programme start="20250908172000 +0200" stop="20250908182000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje T3 E9</title>
+    <desc lang="es">Series,Telenovela | 2025 | +16
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908181000 +0200" stop="20250908191000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+  <programme start="20250908182000 +0200" stop="20250908193000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La Promesa T1 E670</title>
+    <desc lang="es">Series,Drama | 2025 | +12 | *6.6/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908191000 +0200" stop="20250908194000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Malas lenguas T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+  <programme start="20250908193000 +0200" stop="20250908203000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Especial La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12
+· En el valle de los Pedroches, el palacio de La Promesa, propiedad del Marquesado de Luján, enfrenta su peor momento. Un hombre señalado por su familia investiga la muerte de su hermana, mientras el amor se cruza en su camino.
+· País: España</desc>
   </programme>
-  <programme start="20250908194000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250908203000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
-  <programme start="20250908210000 +0200" stop="20250908213500 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250908210000 +0200" stop="20250908214500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -465,41 +376,36 @@
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908213500 +0200" stop="20250908214000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250908214500 +0200" stop="20250908215000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250908214000 +0200" stop="20250908225000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Viaje al centro de la tele exprés T1</title>
-    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
+  <programme start="20250908215000 +0200" stop="20250908230000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La revuelta T2 E1</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20250908225000 +0200" stop="20250909011000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">MasterChef Celebrity T10</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +7 | *10/10
-· El concurso de cocina MasterChef se reinventa. En esta ocasión los famosos han de ponerse a los fogones. Conocidos participantes se esfuerzan por preparar los platos más suculentos y conseguir una donación para la ONG de su elección.
+  <programme start="20250908230000 +0200" stop="20250909014900 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">MasterChef Celebrity T10 E2</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +7
+· Los aspirantes cocinan con air fryer y con la ayuda de la Inteligencia Artificial.
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909011000 +0200" stop="20250909021000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">Vuelvo a empezar</title>
-    <desc lang="es">Entretenimiento,Tertulia | 2025 | TP | *8/10
-· La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen.
-· País: España</desc>
-  </programme>
-  <programme start="20250909021000 +0200" stop="20250909044000 +0200" channel="ES: LA 1 FHD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+  <programme start="20250909014900 +0200" stop="20250909050500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">MasterChef Celebrity T10 E1</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | TP | *8/10
+· El programa está dispuesto para empezar la aventura culinaria. Mariló Montero, José Manuel Parada, Juanjo Bona, Soraya Arnelas, Alejo Sauras, Rosa Benito, Miguel Torres y Mala Rodríguez, entre otros, se ponen el delantal por primera vez.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909044000 +0200" stop="20250909060000 +0200" channel="ES: LA 1 FHD">
+  <programme start="20250909050500 +0200" stop="20250909060000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -902,21 +808,35 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250905075000 +0200" stop="20250905103500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E176</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912024000 +0200" stop="20250912060000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250912060000 +0200" stop="20250912075000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912075000 +0200" stop="20250912103500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250905103500 +0200" stop="20250905150000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Mañaneros 360 T2 E5</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912103500 +0200" stop="20250912150000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Mañaneros 360 T2</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *10/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
-  <programme start="20250905150000 +0200" stop="20250905153500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912150000 +0200" stop="20250912153500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1</title>
     <desc lang="es">Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -924,64 +844,64 @@
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905153500 +0200" stop="20250905154000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912153500 +0200" stop="20250912154000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250905154000 +0200" stop="20250905154500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912154000 +0200" stop="20250912154500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905154500 +0200" stop="20250905155500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912154500 +0200" stop="20250912155500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Información,Informativo | 2023 | *6/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.
 </desc>
   </programme>
-  <programme start="20250905155500 +0200" stop="20250905173000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">DIRECTO Final Etapa 13 - Cabezón de la Sal - Angliru T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | *6/10
+  <programme start="20250912155500 +0200" stop="20250912173000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *4/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
-· País: España</desc>
+· País: Chipre, España, Finlandia y Polonia</desc>
   </programme>
-  <programme start="20250905173000 +0200" stop="20250905182500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje T3 E8</title>
-    <desc lang="es">Series,Telenovela | 2025 | +16
+  <programme start="20250912173000 +0200" stop="20250912182500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
-  <programme start="20250905182500 +0200" stop="20250905192000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1 E670</title>
-    <desc lang="es">Series,Drama | 2025 | +12
+  <programme start="20250912182500 +0200" stop="20250912192000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
   </programme>
-  <programme start="20250905192000 +0200" stop="20250905203000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Malas lenguas T1 E167</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912192000 +0200" stop="20250912203000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
 · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250905203000 +0200" stop="20250905210000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912203000 +0200" stop="20250912210000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
-  <programme start="20250905210000 +0200" stop="20250905214500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912210000 +0200" stop="20250912214500 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -989,14 +909,14 @@
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905214500 +0200" stop="20250905215000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912214500 +0200" stop="20250912215000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250905215000 +0200" stop="20250905220000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250912215000 +0200" stop="20250912220000 +0200" channel="ES: LA 1 FHD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
@@ -1004,96 +924,73 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905220000 +0200" stop="20250905224800 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
+  <programme start="20250912220000 +0200" stop="20250912225800 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250905224800 +0200" stop="20250905234300 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6/10
+  <programme start="20250912225800 +0200" stop="20250912235900 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250905234300 +0200" stop="20250906003600 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.6/10
+  <programme start="20250912235900 +0200" stop="20250913005500 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250906003600 +0200" stop="20250906012500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
+  <programme start="20250913005500 +0200" stop="20250913015000 +0200" channel="ES: LA 1 FHD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250906012500 +0200" stop="20250906025500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Sí quiero</title>
-    <desc lang="es">Cine para televisión,Cine TV comedia | 2013 | +12 | *5.6/10
-· Cuando el pastor Hans-Uwe Petersen se entera de que su parroquia de Toestrup se fusionará con la parroquia vecina de Norderup, se ve presionado. Le gustaría asumir la responsabilidad.
-· País: Alemania
-· Dirección: Walter Weber.
-· Reparto: Gerburg Jahnke, Elena Uhlig, Bjarne Mädel, Peter Heinrich Brix, Ulrike Kriener.
-· Guion: Georg Weber.
-· Productora: Zweites Deutsches Fernsehen (ZDF), Network Movie Film-und Fernsehproduktion.</desc>
+  <programme start="20250906110000 +0200" stop="20250906113000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Audiencia abierta</title>
+    <desc lang="es">Información,Política | 2012 | TP | *6/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20250906025500 +0200" stop="20250906060000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906060000 +0200" stop="20250906100000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906100000 +0200" stop="20250906105400 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+  <programme start="20250906113000 +0200" stop="20250906122100 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele T14 · ¿Quién dijo miedo?</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
+· Sorprendente viaje a través de las primeras apariciones de varias personalidades.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250906105400 +0200" stop="20250906120700 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-  </programme>
-  <programme start="20250906120700 +0200" stop="20250906131500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+  <programme start="20250906122100 +0200" stop="20250906131500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Especial Miguel Bosé (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8/10
+· Primera parte del programa especial sobre Miguel Bosé, con sus temas más emblemáticos, entrevistas al artista, duetos, versiones, imitaciones, su lado más personal, estilismos y el fenómeno fan.
+· País: España</desc>
   </programme>
   <programme start="20250906131500 +0200" stop="20250906150000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+    <title lang="es">D Corazón T2 E69</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250906150000 +0200" stop="20250906154000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250906150000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906154000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250906154500 +0200" stop="20250906155000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250906154500 +0200" stop="20250906155500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250906155000 +0200" stop="20250906155500 +0200" channel="ES: LA 1 HD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
@@ -1101,23 +998,34 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906155500 +0200" stop="20250906175500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250906155500 +0200" stop="20250906172500 +0200" channel="ES: LA 1 HD">
     <title lang="es">DIRECTO Final Etapa 14 - Avilés - La Farrapona - Lagos de Somiedo T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *5/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
   </programme>
-  <programme start="20250906175500 +0200" stop="20250906193500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906172500 +0200" stop="20250906193000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Camino a la perdición</title>
+    <desc lang="es">Cine,Drama | 2002 | +16 | *7.8/10
+· Michael Sullivan, un asesino a sueldo de la mafia irlandesa de Chicago durante la época de la Depresión, se ve obligado a huir con su hijo tras perder al resto de su familia a manos de los hombres para los que trabaja.
+· País: EE.UU.
+· Dirección: Sam Mendes.
+· Reparto: Daniel Craig, Paul Newman, Tom Hanks, Stanley Tucci, Tyler Hoechlin, Liam Aiken, Jennifer Jason Leigh, Jude Law, Ciarán Hinds, David Darlow, Phil Ridarelli, Lance Baker, Rob Maxey, Juanita Wilson, Roderick Peeples.
+· Guion: David Self.
+· Música: John M Williams, Thomas Newman.
+· Producción: Sam Mendes, Richard D Zanuck, Dean Zanuck.
+· Productora: Twentieth Century Fox, The Zanuck Company, DreamWorks SKG.</desc>
   </programme>
-  <programme start="20250906193500 +0200" stop="20250906210000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906193000 +0200" stop="20250906210000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Jenaro, el de los 14</title>
+    <desc lang="es">Cine,Comedia | 1974 | +12 | *6.4/10
+· Jenaro es el pregonero del pueblo. Tras el acierto de una quiniela de catorce resultados, premiada con muchos millones, su vida cambia por completo. De la noche a la mañana, todas las mujeres quieren casarse con él.
+· País: España
+· Dirección: Mariano Ozores.
+· Reparto: Alfredo Landa, María Luisa San José, Mari Carmen Prendes, Valeriano Andrés, Mirta Miller.
+· Guion: Mariano Ozores, Vicente Coello.
+· Música: Antón García Abril.
+· Productora: Estudios Cinematográficos Roma S.A, Filmayer, S.A.</desc>
   </programme>
   <programme start="20250906210000 +0200" stop="20250906212500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1135,141 +1043,191 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250906213000 +0200" stop="20250906220000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Informe Semanal T24/25</title>
-    <desc lang="es">Información,Reportaje | 2024 | +7 | *6/10
+    <title lang="es">Informe Semanal T25/26 E1</title>
+    <desc lang="es">Información,Reportaje | 2025 | +7
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250906233500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906220000 +0200" stop="20250906234000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Upgrade: Primera clase</title>
+    <desc lang="es">Cine,Comedia | 2024 | +16
+· Ana, aspirante a becaria en una galería de arte, acaba en primera clase de forma inesperada en un vuelo de trabajo a Londres con su jefa. Mientras se acostumbra a un estilo de vida más cómodo en el avión, conoce al rico y apuesto William y decide...
+· País: EE.UU.
+· Dirección: Carlson Young.
+· Reparto: Camila Mendes, Archie Renaux, Marisa Tomei, Lena Olin, Anthony Head.
+· Guion: Justin Matthews, Christine Lenig, Luke Spencer Roberts.
+· Música: Isom Innis.
+· Productora: Luber Roklin Entertainment, Gulfstream Pictures.</desc>
   </programme>
-  <programme start="20250906233500 +0200" stop="20250907012000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906234000 +0200" stop="20250907011000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">El chico ideal</title>
+    <desc lang="es">Cine,Comedia romántica | 1998 | TP | *6.6/10
+· Robbie, cantante en banquetes de boda, está a punto de casarse... pero su novia lo deja plantado ante el altar. Julia trabaja como camarera y también está a punto de casarse... pero deja a su novio al descubrir su verdadera personalidad.
+· País: EE.UU.
+· Dirección: Frank Coraci.
+· Reparto: Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert, Alexis Arquette, Billy Idol, Steve Buscemi, Jon Lovitz, Kevin Nealon, Angela Featherstone, Matthew Glave, Ellen Albertini Dow, Christina Pickles.
+· Guion: Tim Herlihy.
+· Música: Teddy Castellucci.
+· Producción: Jack Giarraputo.
+· Productora: Brad Grey, Sandy Wernick, New Line Cinema.</desc>
   </programme>
-  <programme start="20250907012000 +0200" stop="20250907025500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907011000 +0200" stop="20250907024500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">El crucero de los sueños: Bahamas</title>
+    <desc lang="es">Cine para televisión,Cine TV drama | 2023 | TP | *7.2/10
+· El itinerario del barco lleva al capitán Max Parger y su tripulación a las Bahamas en un viaje que tiene grandes sorpresas reservadas para algunos de los pasajeros.
+· País: Alemania
+· Dirección: Marc Prill.
+· Reparto: Florian Silbereisen, Barbara Wussow, Collien Ulmen-Fernandes, Carolina Vera, Daniel Morgenroth.
+· Guion: Jochen S Franken, Martin Wilke.
+· Productora: Galaxy Productions, Polyphon Film-und Fernsehgesellschaft.</desc>
   </programme>
-  <programme start="20250907025500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250907024500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907060000 +0200" stop="20250907103000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250907060000 +0200" stop="20250907101000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907103000 +0200" stop="20250907112000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele T10</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+  <programme start="20250907101000 +0200" stop="20250907111000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele T14 · Presentado por</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250907112000 +0200" stop="20250907121400 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Entretenimiento,Zapping | 2018 | TP | *6.2/10
+  <programme start="20250907111000 +0200" stop="20250907121100 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Top baladas (primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907121400 +0200" stop="20250907131000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
+  <programme start="20250907121100 +0200" stop="20250907131500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Historia de una canción exprés (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907131000 +0200" stop="20250907150000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+  <programme start="20250907131500 +0200" stop="20250907150000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">D Corazón T2 E70</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250907150000 +0200" stop="20250907154000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250907150000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
-· Presenta: Lara Siscar, Igor Gómez, Marcos López.
+· Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250907154000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
+  <programme start="20250907155000 +0200" stop="20250907173000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Book Club - Ahora Italia</title>
+    <desc lang="es">Cine,Comedia dramática | 2023 | +7 | *6/10
+· Después de una larga pandemia, el club de lectura se reencuentra con la noticia de que Vivian se va a casar, y, tras redescubrir en un antiguo diario aquel viaje a Italia que nunca hicieron de jóvenes, deciden organizar la despedida de soltera allí.
+· País: EE.UU.
+· Dirección: Bill Holderman.
+· Reparto: Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen, Craig T. Nelson, Giancarlo Giannini, Andy Garcia, Don Johnson.
+· Guion: Bill Holderman, Erin Simms.
+· Música: Tom Howe.
+· Producción: Bill Holderman, Erin Simms.
+· Productora: Focus Features, Apartment Story.</desc>
   </programme>
-  <programme start="20250907155000 +0200" stop="20250907175000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907173000 +0200" stop="20250907185500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Míos, tuyos, nuestros</title>
+    <desc lang="es">Cine,Comedia | 2005 | TP | *7.2/10
+· Narra las peripecias de dos padres divorciados con diez y ocho hijos respectivamente, y cómo sus planes de matrimonio (que incluyen encontrar una casa para todos ellos) se verán saboteados.
+· País: EE.UU.
+· Dirección: Raja Gosnell.
+· Reparto: Dennis Quaid, Rene Russo, Sean Faris, Jerry O'Connell, Linda Hunt, Katija Pevec, Dean Collins, Tyler Patrick Jones.
+· Guion: David Kidd, Ron Burch.
+· Música: Christophe Beck.
+· Producción: Robert Simonds, Michael G. Nathanson.
+· Productora: Columbia Pictures Corporation, Sean Faris, Robert Simonds Productions, Time Productions Inc.</desc>
   </programme>
-  <programme start="20250907175000 +0200" stop="20250907203000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907185500 +0200" stop="20250907203000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Tú la letra, yo la música</title>
+    <desc lang="es">Cine,Comedia romántica | 2007 | TP | *7.2/10
+· Alex Fletcher es una vieja gloria de la música pop de la década de 1980 del que ya nadie se acuerda. Mientras su compañero de banda triunfa en su carrera en solitario, él debe conformarse con aparecer en un 'reality show' sobre cantantes acabados.
+· País: EE.UU.
+· Dirección: Marc Lawrence.
+· Reparto: Hugh Grant, Drew Barrymore, Brad Garrett, Kristen Johnston, Campbell Scott, Haley Bennett.
+· Guion: Marc Lawrence.
+· Música: Adam Schlesinger.
+· Producción: Liz Glotzer, Martin Shafer.
+· Productora: Castle Rock Entertainment, Village Roadshow Pictures, Flower Films.</desc>
   </programme>
-  <programme start="20250907203000 +0200" stop="20250907225500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250907203000 +0200" stop="20250907223500 +0200" channel="ES: LA 1 HD">
     <title lang="es">DIRECTO Turquía - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
     <desc lang="es">Deportes,Fútbol | 2025 | *8.4/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.
-</desc>
+· País: Turquía</desc>
   </programme>
-  <programme start="20250907225500 +0200" stop="20250908013000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907223500 +0200" stop="20250908001500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">El maestro que prometió el mar</title>
+    <desc lang="es">Cine,Biopic | 2023 | +12 | *8/10
+· En 2010, Ariadna viaja de Barcelona al Monte de la Pedraja, en Burgos, para averiguar si los restos de su bisabuelo están en la fosa común que se está excavando. Un anciano de la zona también confía encontrar allí los del maestro que le prometió el mar.
+· País: España
+· Dirección: Patricia Font.
+· Reparto: Enric Auquer, Laia Costa, Luisa Gavasa, Ramón Agirre, Alba Guilera, Gael Aparicio, Alba Hermoso, Nicolás Calvo, Antonio Mora, Milo Taboada.
+· Guion: Albert Val.
+· Música: Natasha Arizu del Valle.
+· Producción: Tono Folguera, Francesc Escribano.
+· Productora: Filmax, Institut Català de les Empreses Culturals (ICEC), Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Mestres Films, Lastor Media.</desc>
   </programme>
-  <programme start="20250908013000 +0200" stop="20250908025500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250908001500 +0200" stop="20250908015000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Intemperie</title>
+    <desc lang="es">Cine,Drama | 2019 | +16 | *8/10
+· 1946. En la España sumisa y pobre surgida tras la Guerra Civil, un niño escapa del implacable capataz del cortijo en el que vive. Perseguido por el capataz y sus hombres, intenta huir hacia la ciudad atravesando un paisaje hostil y desolado.
+· País: España y Portugal
+· Dirección: Benito Zambrano.
+· Reparto: Luis Tosar, Luis Callejo, Jaime López, Vicente Romero, Kandido Uranga, Juanjo Pérez Yuste, Adriano Carvalho, Manolo Caro.
+· Guion: Daniel Remón, Pablo Remón, Benito Zambrano.
+· Música: Mikel Salas.
+· Producción: Pedro Uriol, Juan Gordon.
+· Productora: Morena Films S.L, Áralan Films S.L, Intemperie la Película A.I.E., Ukbar Filmes, Radio Televisión Española (RTVE), Canal Sur, Movistar+, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA).</desc>
   </programme>
-  <programme start="20250908025500 +0200" stop="20250908070000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250908015000 +0200" stop="20250908033000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La mula</title>
+    <desc lang="es">Cine,Drama | 2013 | +12 | *6.4/10
+· El cabo Juan Castro, un joven de Jaén que combate en el bando nacional, encuentra una mula perdida en medio del campo de batalla y decide esconderla para llevársela a casa al final de la guerra.
+· País: España
+· Dirección: Michael Radford.
+· Reparto: Luis Callejo, María Valverde, Secun de la Rosa, Mario Casas, Antonio Gil-Martinez.
+· Productora: Integral Films, Gheko Films.</desc>
+  </programme>
+  <programme start="20250908033000 +0200" stop="20250908060000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250908070000 +0200" stop="20250908083000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250908060000 +0200" stop="20250908075000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908083000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+  <programme start="20250908075000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E177</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -1316,38 +1274,37 @@
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250908172000 +0200" stop="20250908181000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12
+  <programme start="20250908172000 +0200" stop="20250908182000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje T3 E9</title>
+    <desc lang="es">Series,Telenovela | 2025 | +16
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908181000 +0200" stop="20250908191000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+  <programme start="20250908182000 +0200" stop="20250908193000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La Promesa T1 E670</title>
+    <desc lang="es">Series,Drama | 2025 | +12 | *6.6/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908191000 +0200" stop="20250908194000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Malas lenguas T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+  <programme start="20250908193000 +0200" stop="20250908203000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Especial La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12
+· En el valle de los Pedroches, el palacio de La Promesa, propiedad del Marquesado de Luján, enfrenta su peor momento. Un hombre señalado por su familia investiga la muerte de su hermana, mientras el amor se cruza en su camino.
+· País: España</desc>
   </programme>
-  <programme start="20250908194000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250908203000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
-  <programme start="20250908210000 +0200" stop="20250908213500 +0200" channel="ES: LA 1 HD">
+  <programme start="20250908210000 +0200" stop="20250908214500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -1355,41 +1312,36 @@
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908213500 +0200" stop="20250908214000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250908214500 +0200" stop="20250908215000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250908214000 +0200" stop="20250908225000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Viaje al centro de la tele exprés T1</title>
-    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
+  <programme start="20250908215000 +0200" stop="20250908230000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La revuelta T2 E1</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20250908225000 +0200" stop="20250909011000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">MasterChef Celebrity T10</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +7 | *10/10
-· El concurso de cocina MasterChef se reinventa. En esta ocasión los famosos han de ponerse a los fogones. Conocidos participantes se esfuerzan por preparar los platos más suculentos y conseguir una donación para la ONG de su elección.
+  <programme start="20250908230000 +0200" stop="20250909014900 +0200" channel="ES: LA 1 HD">
+    <title lang="es">MasterChef Celebrity T10 E2</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +7
+· Los aspirantes cocinan con air fryer y con la ayuda de la Inteligencia Artificial.
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909011000 +0200" stop="20250909021000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">Vuelvo a empezar</title>
-    <desc lang="es">Entretenimiento,Tertulia | 2025 | TP | *8/10
-· La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen.
-· País: España</desc>
-  </programme>
-  <programme start="20250909021000 +0200" stop="20250909044000 +0200" channel="ES: LA 1 HD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+  <programme start="20250909014900 +0200" stop="20250909050500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">MasterChef Celebrity T10 E1</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | TP | *8/10
+· El programa está dispuesto para empezar la aventura culinaria. Mariló Montero, José Manuel Parada, Juanjo Bona, Soraya Arnelas, Alejo Sauras, Rosa Benito, Miguel Torres y Mala Rodríguez, entre otros, se ponen el delantal por primera vez.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909044000 +0200" stop="20250909060000 +0200" channel="ES: LA 1 HD">
+  <programme start="20250909050500 +0200" stop="20250909060000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -1792,21 +1744,35 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250905075000 +0200" stop="20250905103500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E176</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912024000 +0200" stop="20250912060000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250912060000 +0200" stop="20250912075000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912075000 +0200" stop="20250912103500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20250905103500 +0200" stop="20250905150000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Mañaneros 360 T2 E5</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912103500 +0200" stop="20250912150000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Mañaneros 360 T2</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *10/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
-  <programme start="20250905150000 +0200" stop="20250905153500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912150000 +0200" stop="20250912153500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1</title>
     <desc lang="es">Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -1814,64 +1780,64 @@
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905153500 +0200" stop="20250905154000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912153500 +0200" stop="20250912154000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250905154000 +0200" stop="20250905154500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912154000 +0200" stop="20250912154500 +0200" channel="ES: LA 1 HD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905154500 +0200" stop="20250905155500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912154500 +0200" stop="20250912155500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Información,Informativo | 2023 | *6/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.
 </desc>
   </programme>
-  <programme start="20250905155500 +0200" stop="20250905173000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">DIRECTO Final Etapa 13 - Cabezón de la Sal - Angliru T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | *6/10
+  <programme start="20250912155500 +0200" stop="20250912173000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *4/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
-· País: España</desc>
+· País: Chipre, España, Finlandia y Polonia</desc>
   </programme>
-  <programme start="20250905173000 +0200" stop="20250905182500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje T3 E8</title>
-    <desc lang="es">Series,Telenovela | 2025 | +16
+  <programme start="20250912173000 +0200" stop="20250912182500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
-  <programme start="20250905182500 +0200" stop="20250905192000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1 E670</title>
-    <desc lang="es">Series,Drama | 2025 | +12
+  <programme start="20250912182500 +0200" stop="20250912192000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
   </programme>
-  <programme start="20250905192000 +0200" stop="20250905203000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Malas lenguas T1 E167</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+  <programme start="20250912192000 +0200" stop="20250912203000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
 · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250905203000 +0200" stop="20250905210000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912203000 +0200" stop="20250912210000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
-  <programme start="20250905210000 +0200" stop="20250905214500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912210000 +0200" stop="20250912214500 +0200" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -1879,14 +1845,14 @@
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905214500 +0200" stop="20250905215000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912214500 +0200" stop="20250912215000 +0200" channel="ES: LA 1 HD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250905215000 +0200" stop="20250905220000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250912215000 +0200" stop="20250912220000 +0200" channel="ES: LA 1 HD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
@@ -1894,96 +1860,73 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250905220000 +0200" stop="20250905224800 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.6/10
+  <programme start="20250912220000 +0200" stop="20250912225800 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250905224800 +0200" stop="20250905234300 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6/10
+  <programme start="20250912225800 +0200" stop="20250912235900 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250905234300 +0200" stop="20250906003600 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *5.6/10
+  <programme start="20250912235900 +0200" stop="20250913005500 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250906003600 +0200" stop="20250906012500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *4/10
+  <programme start="20250913005500 +0200" stop="20250913015000 +0200" channel="ES: LA 1 HD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
-  <programme start="20250906012500 +0200" stop="20250906025500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Sí quiero</title>
-    <desc lang="es">Cine para televisión,Cine TV comedia | 2013 | +12 | *5.6/10
-· Cuando el pastor Hans-Uwe Petersen se entera de que su parroquia de Toestrup se fusionará con la parroquia vecina de Norderup, se ve presionado. Le gustaría asumir la responsabilidad.
-· País: Alemania
-· Dirección: Walter Weber.
-· Reparto: Gerburg Jahnke, Elena Uhlig, Bjarne Mädel, Peter Heinrich Brix, Ulrike Kriener.
-· Guion: Georg Weber.
-· Productora: Zweites Deutsches Fernsehen (ZDF), Network Movie Film-und Fernsehproduktion.</desc>
+  <programme start="20250906110000 +0200" stop="20250906113000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Audiencia abierta</title>
+    <desc lang="es">Información,Política | 2012 | TP | *6/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20250906025500 +0200" stop="20250906060000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906060000 +0200" stop="20250906100000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20250906100000 +0200" stop="20250906105400 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+  <programme start="20250906113000 +0200" stop="20250906122100 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele T14 · ¿Quién dijo miedo?</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
+· Sorprendente viaje a través de las primeras apariciones de varias personalidades.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250906105400 +0200" stop="20250906120700 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-  </programme>
-  <programme start="20250906120700 +0200" stop="20250906131500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+  <programme start="20250906122100 +0200" stop="20250906131500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Especial Miguel Bosé (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8/10
+· Primera parte del programa especial sobre Miguel Bosé, con sus temas más emblemáticos, entrevistas al artista, duetos, versiones, imitaciones, su lado más personal, estilismos y el fenómeno fan.
+· País: España</desc>
   </programme>
   <programme start="20250906131500 +0200" stop="20250906150000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+    <title lang="es">D Corazón T2 E69</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250906150000 +0200" stop="20250906154000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250906150000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *3.8/10
+    <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906154000 +0200" stop="20250906154500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250906154500 +0200" stop="20250906155000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250906154500 +0200" stop="20250906155500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250906155000 +0200" stop="20250906155500 +0200" channel="ES: LA 1 SD">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
@@ -1991,23 +1934,34 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906155500 +0200" stop="20250906175500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250906155500 +0200" stop="20250906172500 +0200" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Final Etapa 14 - Avilés - La Farrapona - Lagos de Somiedo T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *5/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
   </programme>
-  <programme start="20250906175500 +0200" stop="20250906193500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906172500 +0200" stop="20250906193000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Camino a la perdición</title>
+    <desc lang="es">Cine,Drama | 2002 | +16 | *7.8/10
+· Michael Sullivan, un asesino a sueldo de la mafia irlandesa de Chicago durante la época de la Depresión, se ve obligado a huir con su hijo tras perder al resto de su familia a manos de los hombres para los que trabaja.
+· País: EE.UU.
+· Dirección: Sam Mendes.
+· Reparto: Daniel Craig, Paul Newman, Tom Hanks, Stanley Tucci, Tyler Hoechlin, Liam Aiken, Jennifer Jason Leigh, Jude Law, Ciarán Hinds, David Darlow, Phil Ridarelli, Lance Baker, Rob Maxey, Juanita Wilson, Roderick Peeples.
+· Guion: David Self.
+· Música: John M Williams, Thomas Newman.
+· Producción: Sam Mendes, Richard D Zanuck, Dean Zanuck.
+· Productora: Twentieth Century Fox, The Zanuck Company, DreamWorks SKG.</desc>
   </programme>
-  <programme start="20250906193500 +0200" stop="20250906210000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906193000 +0200" stop="20250906210000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Jenaro, el de los 14</title>
+    <desc lang="es">Cine,Comedia | 1974 | +12 | *6.4/10
+· Jenaro es el pregonero del pueblo. Tras el acierto de una quiniela de catorce resultados, premiada con muchos millones, su vida cambia por completo. De la noche a la mañana, todas las mujeres quieren casarse con él.
+· País: España
+· Dirección: Mariano Ozores.
+· Reparto: Alfredo Landa, María Luisa San José, Mari Carmen Prendes, Valeriano Andrés, Mirta Miller.
+· Guion: Mariano Ozores, Vicente Coello.
+· Música: Antón García Abril.
+· Productora: Estudios Cinematográficos Roma S.A, Filmayer, S.A.</desc>
   </programme>
   <programme start="20250906210000 +0200" stop="20250906212500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -2025,141 +1979,191 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20250906213000 +0200" stop="20250906220000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Informe Semanal T24/25</title>
-    <desc lang="es">Información,Reportaje | 2024 | +7 | *6/10
+    <title lang="es">Informe Semanal T25/26 E1</title>
+    <desc lang="es">Información,Reportaje | 2025 | +7
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250906220000 +0200" stop="20250906233500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906220000 +0200" stop="20250906234000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Upgrade: Primera clase</title>
+    <desc lang="es">Cine,Comedia | 2024 | +16
+· Ana, aspirante a becaria en una galería de arte, acaba en primera clase de forma inesperada en un vuelo de trabajo a Londres con su jefa. Mientras se acostumbra a un estilo de vida más cómodo en el avión, conoce al rico y apuesto William y decide...
+· País: EE.UU.
+· Dirección: Carlson Young.
+· Reparto: Camila Mendes, Archie Renaux, Marisa Tomei, Lena Olin, Anthony Head.
+· Guion: Justin Matthews, Christine Lenig, Luke Spencer Roberts.
+· Música: Isom Innis.
+· Productora: Luber Roklin Entertainment, Gulfstream Pictures.</desc>
   </programme>
-  <programme start="20250906233500 +0200" stop="20250907012000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250906234000 +0200" stop="20250907011000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El chico ideal</title>
+    <desc lang="es">Cine,Comedia romántica | 1998 | TP | *6.6/10
+· Robbie, cantante en banquetes de boda, está a punto de casarse... pero su novia lo deja plantado ante el altar. Julia trabaja como camarera y también está a punto de casarse... pero deja a su novio al descubrir su verdadera personalidad.
+· País: EE.UU.
+· Dirección: Frank Coraci.
+· Reparto: Adam Sandler, Drew Barrymore, Christine Taylor, Allen Covert, Alexis Arquette, Billy Idol, Steve Buscemi, Jon Lovitz, Kevin Nealon, Angela Featherstone, Matthew Glave, Ellen Albertini Dow, Christina Pickles.
+· Guion: Tim Herlihy.
+· Música: Teddy Castellucci.
+· Producción: Jack Giarraputo.
+· Productora: Brad Grey, Sandy Wernick, New Line Cinema.</desc>
   </programme>
-  <programme start="20250907012000 +0200" stop="20250907025500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907011000 +0200" stop="20250907024500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El crucero de los sueños: Bahamas</title>
+    <desc lang="es">Cine para televisión,Cine TV drama | 2023 | TP | *7.2/10
+· El itinerario del barco lleva al capitán Max Parger y su tripulación a las Bahamas en un viaje que tiene grandes sorpresas reservadas para algunos de los pasajeros.
+· País: Alemania
+· Dirección: Marc Prill.
+· Reparto: Florian Silbereisen, Barbara Wussow, Collien Ulmen-Fernandes, Carolina Vera, Daniel Morgenroth.
+· Guion: Jochen S Franken, Martin Wilke.
+· Productora: Galaxy Productions, Polyphon Film-und Fernsehgesellschaft.</desc>
   </programme>
-  <programme start="20250907025500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250907024500 +0200" stop="20250907060000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907060000 +0200" stop="20250907103000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250907060000 +0200" stop="20250907101000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250907103000 +0200" stop="20250907112000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele T10</title>
-    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+  <programme start="20250907101000 +0200" stop="20250907111000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele T14 · Presentado por</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20250907112000 +0200" stop="20250907121400 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Entretenimiento,Zapping | 2018 | TP | *6.2/10
+  <programme start="20250907111000 +0200" stop="20250907121100 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Top baladas (primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *8.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907121400 +0200" stop="20250907131000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele T14</title>
-    <desc lang="es">Entretenimiento,Zapping | 2024 | TP | *5.8/10
+  <programme start="20250907121100 +0200" stop="20250907131500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele exprés T1 · Historia de una canción exprés (Primera parte)</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | TP | *10/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
-  <programme start="20250907131000 +0200" stop="20250907150000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">D Corazón T2</title>
-    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP | *6.4/10
+  <programme start="20250907131500 +0200" stop="20250907150000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">D Corazón T2 E70</title>
+    <desc lang="es">Entretenimiento,Corazon y sociedad | 2025 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
-  <programme start="20250907150000 +0200" stop="20250907154000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250907150000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Información,Informativo | 2021 | *3.8/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
-· Presenta: Lara Siscar, Igor Gómez, Marcos López.
+· Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250907154000 +0200" stop="20250907154500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250907154500 +0200" stop="20250907155000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
+  <programme start="20250907155000 +0200" stop="20250907173000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Book Club - Ahora Italia</title>
+    <desc lang="es">Cine,Comedia dramática | 2023 | +7 | *6/10
+· Después de una larga pandemia, el club de lectura se reencuentra con la noticia de que Vivian se va a casar, y, tras redescubrir en un antiguo diario aquel viaje a Italia que nunca hicieron de jóvenes, deciden organizar la despedida de soltera allí.
+· País: EE.UU.
+· Dirección: Bill Holderman.
+· Reparto: Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen, Craig T. Nelson, Giancarlo Giannini, Andy Garcia, Don Johnson.
+· Guion: Bill Holderman, Erin Simms.
+· Música: Tom Howe.
+· Producción: Bill Holderman, Erin Simms.
+· Productora: Focus Features, Apartment Story.</desc>
   </programme>
-  <programme start="20250907155000 +0200" stop="20250907175000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907173000 +0200" stop="20250907185500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Míos, tuyos, nuestros</title>
+    <desc lang="es">Cine,Comedia | 2005 | TP | *7.2/10
+· Narra las peripecias de dos padres divorciados con diez y ocho hijos respectivamente, y cómo sus planes de matrimonio (que incluyen encontrar una casa para todos ellos) se verán saboteados.
+· País: EE.UU.
+· Dirección: Raja Gosnell.
+· Reparto: Dennis Quaid, Rene Russo, Sean Faris, Jerry O'Connell, Linda Hunt, Katija Pevec, Dean Collins, Tyler Patrick Jones.
+· Guion: David Kidd, Ron Burch.
+· Música: Christophe Beck.
+· Producción: Robert Simonds, Michael G. Nathanson.
+· Productora: Columbia Pictures Corporation, Sean Faris, Robert Simonds Productions, Time Productions Inc.</desc>
   </programme>
-  <programme start="20250907175000 +0200" stop="20250907203000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907185500 +0200" stop="20250907203000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Tú la letra, yo la música</title>
+    <desc lang="es">Cine,Comedia romántica | 2007 | TP | *7.2/10
+· Alex Fletcher es una vieja gloria de la música pop de la década de 1980 del que ya nadie se acuerda. Mientras su compañero de banda triunfa en su carrera en solitario, él debe conformarse con aparecer en un 'reality show' sobre cantantes acabados.
+· País: EE.UU.
+· Dirección: Marc Lawrence.
+· Reparto: Hugh Grant, Drew Barrymore, Brad Garrett, Kristen Johnston, Campbell Scott, Haley Bennett.
+· Guion: Marc Lawrence.
+· Música: Adam Schlesinger.
+· Producción: Liz Glotzer, Martin Shafer.
+· Productora: Castle Rock Entertainment, Village Roadshow Pictures, Flower Films.</desc>
   </programme>
-  <programme start="20250907203000 +0200" stop="20250907225500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250907203000 +0200" stop="20250907223500 +0200" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Turquía - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
     <desc lang="es">Deportes,Fútbol | 2025 | *8.4/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.
-</desc>
+· País: Turquía</desc>
   </programme>
-  <programme start="20250907225500 +0200" stop="20250908013000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250907223500 +0200" stop="20250908001500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El maestro que prometió el mar</title>
+    <desc lang="es">Cine,Biopic | 2023 | +12 | *8/10
+· En 2010, Ariadna viaja de Barcelona al Monte de la Pedraja, en Burgos, para averiguar si los restos de su bisabuelo están en la fosa común que se está excavando. Un anciano de la zona también confía encontrar allí los del maestro que le prometió el mar.
+· País: España
+· Dirección: Patricia Font.
+· Reparto: Enric Auquer, Laia Costa, Luisa Gavasa, Ramón Agirre, Alba Guilera, Gael Aparicio, Alba Hermoso, Nicolás Calvo, Antonio Mora, Milo Taboada.
+· Guion: Albert Val.
+· Música: Natasha Arizu del Valle.
+· Producción: Tono Folguera, Francesc Escribano.
+· Productora: Filmax, Institut Català de les Empreses Culturals (ICEC), Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Mestres Films, Lastor Media.</desc>
   </programme>
-  <programme start="20250908013000 +0200" stop="20250908025500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Cine</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250908001500 +0200" stop="20250908015000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Intemperie</title>
+    <desc lang="es">Cine,Drama | 2019 | +16 | *8/10
+· 1946. En la España sumisa y pobre surgida tras la Guerra Civil, un niño escapa del implacable capataz del cortijo en el que vive. Perseguido por el capataz y sus hombres, intenta huir hacia la ciudad atravesando un paisaje hostil y desolado.
+· País: España y Portugal
+· Dirección: Benito Zambrano.
+· Reparto: Luis Tosar, Luis Callejo, Jaime López, Vicente Romero, Kandido Uranga, Juanjo Pérez Yuste, Adriano Carvalho, Manolo Caro.
+· Guion: Daniel Remón, Pablo Remón, Benito Zambrano.
+· Música: Mikel Salas.
+· Producción: Pedro Uriol, Juan Gordon.
+· Productora: Morena Films S.L, Áralan Films S.L, Intemperie la Película A.I.E., Ukbar Filmes, Radio Televisión Española (RTVE), Canal Sur, Movistar+, Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA).</desc>
   </programme>
-  <programme start="20250908025500 +0200" stop="20250908070000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250908015000 +0200" stop="20250908033000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La mula</title>
+    <desc lang="es">Cine,Drama | 2013 | +12 | *6.4/10
+· El cabo Juan Castro, un joven de Jaén que combate en el bando nacional, encuentra una mula perdida en medio del campo de batalla y decide esconderla para llevársela a casa al final de la guerra.
+· País: España
+· Dirección: Michael Radford.
+· Reparto: Luis Callejo, María Valverde, Secun de la Rosa, Mario Casas, Antonio Gil-Martinez.
+· Productora: Integral Films, Gheko Films.</desc>
+  </programme>
+  <programme start="20250908033000 +0200" stop="20250908060000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20250908070000 +0200" stop="20250908083000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250908060000 +0200" stop="20250908075000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
-· Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
-· Presenta: Álex Barreiro, Sirun Demirjian, Rubén Briones.
+· Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908083000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+  <programme start="20250908075000 +0200" stop="20250908103500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E177</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -2206,38 +2210,37 @@
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
-  <programme start="20250908172000 +0200" stop="20250908181000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12
+  <programme start="20250908172000 +0200" stop="20250908182000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje T3 E9</title>
+    <desc lang="es">Series,Telenovela | 2025 | +16
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908181000 +0200" stop="20250908191000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+  <programme start="20250908182000 +0200" stop="20250908193000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La Promesa T1 E670</title>
+    <desc lang="es">Series,Drama | 2025 | +12 | *6.6/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
-  <programme start="20250908191000 +0200" stop="20250908194000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Malas lenguas T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+  <programme start="20250908193000 +0200" stop="20250908203000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Especial La Promesa</title>
+    <desc lang="es">Entretenimiento,Zapping | 2025 | +12
+· En el valle de los Pedroches, el palacio de La Promesa, propiedad del Marquesado de Luján, enfrenta su peor momento. Un hombre señalado por su familia investiga la muerte de su hermana, mientras el amor se cruza en su camino.
+· País: España</desc>
   </programme>
-  <programme start="20250908194000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250908203000 +0200" stop="20250908210000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
-  <programme start="20250908210000 +0200" stop="20250908213500 +0200" channel="ES: LA 1 SD">
+  <programme start="20250908210000 +0200" stop="20250908214500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
@@ -2245,41 +2248,36 @@
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20250908213500 +0200" stop="20250908214000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250908214500 +0200" stop="20250908215000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20250908214000 +0200" stop="20250908225000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Viaje al centro de la tele exprés T1</title>
-    <desc lang="es">Entretenimiento,Zapping | 2021 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España</desc>
+  <programme start="20250908215000 +0200" stop="20250908230000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La revuelta T2 E1</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20250908225000 +0200" stop="20250909011000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">MasterChef Celebrity T10</title>
-    <desc lang="es">Entretenimiento,Concurso | 2025 | +7 | *10/10
-· El concurso de cocina MasterChef se reinventa. En esta ocasión los famosos han de ponerse a los fogones. Conocidos participantes se esfuerzan por preparar los platos más suculentos y conseguir una donación para la ONG de su elección.
+  <programme start="20250908230000 +0200" stop="20250909014900 +0200" channel="ES: LA 1 SD">
+    <title lang="es">MasterChef Celebrity T10 E2</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | +7
+· Los aspirantes cocinan con air fryer y con la ayuda de la Inteligencia Artificial.
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909011000 +0200" stop="20250909021000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">Vuelvo a empezar</title>
-    <desc lang="es">Entretenimiento,Tertulia | 2025 | TP | *8/10
-· La historia de personas que han dejado su vida en la gran ciudad para instalarse en pequeños pueblos de la España rural y aprovechar las oportunidades y calidad de vida que estos ofrecen.
-· País: España</desc>
-  </programme>
-  <programme start="20250909021000 +0200" stop="20250909044000 +0200" channel="ES: LA 1 SD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+  <programme start="20250909014900 +0200" stop="20250909050500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">MasterChef Celebrity T10 E1</title>
+    <desc lang="es">Entretenimiento,Concurso | 2025 | TP | *8/10
+· El programa está dispuesto para empezar la aventura culinaria. Mariló Montero, José Manuel Parada, Juanjo Bona, Soraya Arnelas, Alejo Sauras, Rosa Benito, Miguel Torres y Mala Rodríguez, entre otros, se ponen el delantal por primera vez.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20250909044000 +0200" stop="20250909060000 +0200" channel="ES: LA 1 SD">
+  <programme start="20250909050500 +0200" stop="20250909060000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -2681,5 +2679,145 @@
     <desc lang="es">
 · Programa por determinar...
 </desc>
+  </programme>
+  <programme start="20250912024000 +0200" stop="20250912060000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20250912060000 +0200" stop="20250912075000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912075000 +0200" stop="20250912103500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20250912103500 +0200" stop="20250912150000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros 360 T2</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *10/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+  </programme>
+  <programme start="20250912150000 +0200" stop="20250912153500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912153500 +0200" stop="20250912154000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250912154000 +0200" stop="20250912154500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912154500 +0200" stop="20250912155500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.
+</desc>
+  </programme>
+  <programme start="20250912155500 +0200" stop="20250912173000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *4/10
+· El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
+· País: Chipre, España, Finlandia y Polonia</desc>
+  </programme>
+  <programme start="20250912173000 +0200" stop="20250912182500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *6/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20250912182500 +0200" stop="20250912192000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La Promesa T1</title>
+    <desc lang="es">Series,Drama | 2023 | +12 | *7.4/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20250912192000 +0200" stop="20250912203000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Malas lenguas T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
+· Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+  </programme>
+  <programme start="20250912203000 +0200" stop="20250912210000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *10/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+  </programme>
+  <programme start="20250912210000 +0200" stop="20250912214500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.4/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912214500 +0200" stop="20250912215000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20250912215000 +0200" stop="20250912220000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">La suerte en tus manos</title>
+    <desc lang="es">Ocio y Aficiones,Juegos | 2024 | TP | *6/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20250912220000 +0200" stop="20250912225800 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España</desc>
+  </programme>
+  <programme start="20250912225800 +0200" stop="20250912235900 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España</desc>
+  </programme>
+  <programme start="20250912235900 +0200" stop="20250913005500 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España</desc>
+  </programme>
+  <programme start="20250913005500 +0200" stop="20250913015000 +0200" channel="ES: LA 1 SD">
+    <title lang="es">Viaje al centro de la tele: La noche temática T1</title>
+    <desc lang="es">Entretenimiento,Zapping | 2022 | TP | *6.4/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España</desc>
   </programme>
 </tv>
