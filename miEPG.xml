@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 11/11/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 12/11/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,167 +12,17 @@
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20251111075000 +0100" stop="20251111103500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E223</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20251111103500 +0100" stop="20251111150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros 360 T2 E52</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
-  </programme>
-  <programme start="20251111150000 +0100" stop="20251111153500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111153500 +0100" stop="20251111154000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111154000 +0100" stop="20251111154500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111154500 +0100" stop="20251111155500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información,Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-  </programme>
-  <programme start="20251111155500 +0100" stop="20251111173500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Directo al grano T1 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
-  </programme>
-  <programme start="20251111173500 +0100" stop="20251111183500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje T3 E53</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111183500 +0100" stop="20251111193500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1 E713</title>
-    <desc lang="es">Series,Drama | 2025 | +12 | *6.4/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111193500 +0100" stop="20251111203000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Malas lenguas T2 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-  </programme>
-  <programme start="20251111203000 +0100" stop="20251111210000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20251111210000 +0100" stop="20251111214000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111214000 +0100" stop="20251111214500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111214500 +0100" stop="20251111230000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La revuelta T2 E38</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20251111230000 +0100" stop="20251112002000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Late Xou con Marc Giró T4 E8</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
-· Marc Giró recibe en el plató a Javier Cámara, que presenta la serie "Yakarta". Además, conversa también con el renombrado bailarín y coreógrafo Nacho Duato. Y, para finalizar, Carlos Areces regresa para presentar, por segunda vez, la película "Linaje de.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112002000 +0100" stop="20251112012400 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Late Xou con Marc Giró T1 E20</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *6.0/10
-· Marc Giró recibe en su sofá a la periodista y ganadora de un Ondas Silvia Intxaurrondo.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112012400 +0100" stop="20251112024500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Late Xou con Marc Giró T1 E24</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *10.0/10
-· Marc Giró entrevista a Javier Gutiérrez, que acaba de estrenar la película "Pájaros". La segunda invitada es Rosa María Calaf, una de las periodistas más prestigiosas de nuestro país. Además, regresa Candela Peña con su sección.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112024500 +0100" stop="20251112052000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025 | *6.2/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251112052000 +0100" stop="20251112060000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20251112060000 +0100" stop="20251112075000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Información,Informativo | 2023 | *6.2/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
   <programme start="20251112075000 +0100" stop="20251112103500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E224</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *5.8/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20251112103500 +0100" stop="20251112150000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Mañaneros 360 T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
+    <title lang="es">Mañaneros 360 T2 E53</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
   </programme>
   <programme start="20251112150000 +0100" stop="20251112153500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 1</title>
@@ -202,46 +52,35 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
   <programme start="20251112155500 +0100" stop="20251112173500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Directo al grano T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <title lang="es">Directo al grano T1 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
   </programme>
   <programme start="20251112173500 +0100" stop="20251112183500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
+    <title lang="es">Valle Salvaje T3 E54</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
   </programme>
   <programme start="20251112183500 +0100" stop="20251112193500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.2/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E714</title>
+    <desc lang="es">Series,Drama | 2025 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
   </programme>
   <programme start="20251112193500 +0100" stop="20251112203000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+    <title lang="es">Malas lenguas T2 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20251112203000 +0100" stop="20251112210000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251112210000 +0100" stop="20251112214000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -255,22 +94,19 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20251112214500 +0100" stop="20251112230000 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">La revuelta T2</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T2 E39</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
   </programme>
   <programme start="20251112230000 +0100" stop="20251113022500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Hasta el fin del mundo</title>
-    <desc lang="es">Entretenimiento
-· Sin detalles...</desc>
+    <title lang="es">Hasta el fin del mundo T1 · Costa Rica-Panamá-Medellín (Colombia)</title>
+    <desc lang="es">Entretenimiento,Telerrealidad | 2025 | +12
+· Seis famosas parejas realizan un viaje a través de distintas culturas de América Latina.</desc>
   </programme>
   <programme start="20251113022500 +0100" stop="20251113025500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Más alla del fin del mundo</title>
-    <desc lang="es">Ocio y Aficiones
-· Sin detalles...</desc>
+    <title lang="es">Más alla del fin del mundo T1 · Ciudad de Panamá a Medellín</title>
+    <desc lang="es">Ocio y Aficiones,Viajes | 2025 | +12
+· Paula nos muestra la transformación de parte de Medellín. Años de cambio han logrado que algunos barrios dejen de ser un foco de violencia para convertirse en uno de los epicentros del arte colombiano.</desc>
   </programme>
   <programme start="20251113025500 +0100" stop="20251113053000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La noche en 24 horas</title>
@@ -343,7 +179,7 @@
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
   </programme>
   <programme start="20251113173500 +0100" stop="20251113183500 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Valle Salvaje</title>
+    <title lang="es">Valle Salvaje T3</title>
     <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -361,21 +197,21 @@
   </programme>
   <programme start="20251113193500 +0100" stop="20251113203000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20251113203000 +0100" stop="20251113210000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251113210000 +0100" stop="20251113214000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -396,28 +232,28 @@
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20251113230000 +0100" stop="20251114000500 +0100" channel="ES: LA 1 FHD">
+  <programme start="20251113230000 +0100" stop="20251114001500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
-· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
-· País: España
-· Presenta: Andreu Buenafuente.</desc>
-  </programme>
-  <programme start="20251114000500 +0100" stop="20251114012100 +0100" channel="ES: LA 1 FHD">
-    <title lang="es">Futuro imperfecto T1</title>
     <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114012100 +0100" stop="20251114030000 +0100" channel="ES: LA 1 FHD">
+  <programme start="20251114001500 +0100" stop="20251114013700 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114030000 +0100" stop="20251114053500 +0100" channel="ES: LA 1 FHD">
+  <programme start="20251114013700 +0100" stop="20251114030500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Futuro imperfecto T2</title>
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+  </programme>
+  <programme start="20251114030500 +0100" stop="20251114053500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Información,Informativo | 2025 | *6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
@@ -621,7 +457,7 @@
   </programme>
   <programme start="20251115174500 +0100" stop="20251115200000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">DIRECTO Georgia - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *6.0/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *5.8/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.</desc>
   </programme>
   <programme start="20251115200000 +0100" stop="20251115210000 +0100" channel="ES: LA 1 FHD">
@@ -906,147 +742,13 @@
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20251111075000 +0100" stop="20251111103500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E223</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20251111103500 +0100" stop="20251111150000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Mañaneros 360 T2 E52</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
-  </programme>
-  <programme start="20251111150000 +0100" stop="20251111153500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111153500 +0100" stop="20251111154000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111154000 +0100" stop="20251111154500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111154500 +0100" stop="20251111155500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información,Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-  </programme>
-  <programme start="20251111155500 +0100" stop="20251111173500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Directo al grano T1 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
-  </programme>
-  <programme start="20251111173500 +0100" stop="20251111183500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje T3 E53</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111183500 +0100" stop="20251111193500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1 E713</title>
-    <desc lang="es">Series,Drama | 2025 | +12 | *6.4/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111193500 +0100" stop="20251111203000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Malas lenguas T2 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-  </programme>
-  <programme start="20251111203000 +0100" stop="20251111210000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20251111210000 +0100" stop="20251111214000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111214000 +0100" stop="20251111214500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111214500 +0100" stop="20251111230000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La revuelta T2 E38</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20251111230000 +0100" stop="20251112002000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Late Xou con Marc Giró T4 E8</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
-· Marc Giró recibe en el plató a Javier Cámara, que presenta la serie "Yakarta". Además, conversa también con el renombrado bailarín y coreógrafo Nacho Duato. Y, para finalizar, Carlos Areces regresa para presentar, por segunda vez, la película "Linaje de.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112002000 +0100" stop="20251112012400 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Late Xou con Marc Giró T1 E20</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *6.0/10
-· Marc Giró recibe en su sofá a la periodista y ganadora de un Ondas Silvia Intxaurrondo.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112012400 +0100" stop="20251112024500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Late Xou con Marc Giró T1 E24</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *10.0/10
-· Marc Giró entrevista a Javier Gutiérrez, que acaba de estrenar la película "Pájaros". La segunda invitada es Rosa María Calaf, una de las periodistas más prestigiosas de nuestro país. Además, regresa Candela Peña con su sección.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112024500 +0100" stop="20251112052000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025 | *6.2/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251112052000 +0100" stop="20251112060000 +0100" channel="ES: LA 1 HD">
+  <programme start="20251118045500 +0100" stop="20251118060000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20251112060000 +0100" stop="20251112075000 +0100" channel="ES: LA 1 HD">
+  <programme start="20251118060000 +0100" stop="20251118075000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -1054,19 +756,132 @@
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20251112075000 +0100" stop="20251112103500 +0100" channel="ES: LA 1 HD">
+  <programme start="20251118075000 +0100" stop="20251118103500 +0100" channel="ES: LA 1 FHD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20251112103500 +0100" stop="20251112150000 +0100" channel="ES: LA 1 HD">
+  <programme start="20251118103500 +0100" stop="20251118150000 +0100" channel="ES: LA 1 FHD">
     <title lang="es">Mañaneros 360 T2</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
+  </programme>
+  <programme start="20251118150000 +0100" stop="20251118153500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118153500 +0100" stop="20251118154000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118154000 +0100" stop="20251118154500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118154500 +0100" stop="20251118155500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+  </programme>
+  <programme start="20251118155500 +0100" stop="20251118175000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Directo al grano T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+  </programme>
+  <programme start="20251118175000 +0100" stop="20251118184000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20251118184000 +0100" stop="20251118210000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Programa por determinar</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251118210000 +0100" stop="20251118214000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118214000 +0100" stop="20251118214500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118214500 +0100" stop="20251118230000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La revuelta T2</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20251118230000 +0100" stop="20251119001000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119001000 +0100" stop="20251119012000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119012000 +0100" stop="20251119025500 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119025500 +0100" stop="20251119053000 +0100" channel="ES: LA 1 FHD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información,Informativo | 2025 | *6.2/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251112075000 +0100" stop="20251112103500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E224</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20251112103500 +0100" stop="20251112150000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Mañaneros 360 T2 E53</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
   </programme>
   <programme start="20251112150000 +0100" stop="20251112153500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 1</title>
@@ -1096,46 +911,35 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
   <programme start="20251112155500 +0100" stop="20251112173500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Directo al grano T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <title lang="es">Directo al grano T1 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
   </programme>
   <programme start="20251112173500 +0100" stop="20251112183500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
+    <title lang="es">Valle Salvaje T3 E54</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
   </programme>
   <programme start="20251112183500 +0100" stop="20251112193500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.2/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E714</title>
+    <desc lang="es">Series,Drama | 2025 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
   </programme>
   <programme start="20251112193500 +0100" stop="20251112203000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+    <title lang="es">Malas lenguas T2 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20251112203000 +0100" stop="20251112210000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251112210000 +0100" stop="20251112214000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1149,22 +953,19 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20251112214500 +0100" stop="20251112230000 +0100" channel="ES: LA 1 HD">
-    <title lang="es">La revuelta T2</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T2 E39</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
   </programme>
   <programme start="20251112230000 +0100" stop="20251113022500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Hasta el fin del mundo</title>
-    <desc lang="es">Entretenimiento
-· Sin detalles...</desc>
+    <title lang="es">Hasta el fin del mundo T1 · Costa Rica-Panamá-Medellín (Colombia)</title>
+    <desc lang="es">Entretenimiento,Telerrealidad | 2025 | +12
+· Seis famosas parejas realizan un viaje a través de distintas culturas de América Latina.</desc>
   </programme>
   <programme start="20251113022500 +0100" stop="20251113025500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Más alla del fin del mundo</title>
-    <desc lang="es">Ocio y Aficiones
-· Sin detalles...</desc>
+    <title lang="es">Más alla del fin del mundo T1 · Ciudad de Panamá a Medellín</title>
+    <desc lang="es">Ocio y Aficiones,Viajes | 2025 | +12
+· Paula nos muestra la transformación de parte de Medellín. Años de cambio han logrado que algunos barrios dejen de ser un foco de violencia para convertirse en uno de los epicentros del arte colombiano.</desc>
   </programme>
   <programme start="20251113025500 +0100" stop="20251113053000 +0100" channel="ES: LA 1 HD">
     <title lang="es">La noche en 24 horas</title>
@@ -1237,7 +1038,7 @@
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
   </programme>
   <programme start="20251113173500 +0100" stop="20251113183500 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Valle Salvaje</title>
+    <title lang="es">Valle Salvaje T3</title>
     <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -1255,21 +1056,21 @@
   </programme>
   <programme start="20251113193500 +0100" stop="20251113203000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20251113203000 +0100" stop="20251113210000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251113210000 +0100" stop="20251113214000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1290,28 +1091,28 @@
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20251113230000 +0100" stop="20251114000500 +0100" channel="ES: LA 1 HD">
+  <programme start="20251113230000 +0100" stop="20251114001500 +0100" channel="ES: LA 1 HD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
-· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
-· País: España
-· Presenta: Andreu Buenafuente.</desc>
-  </programme>
-  <programme start="20251114000500 +0100" stop="20251114012100 +0100" channel="ES: LA 1 HD">
-    <title lang="es">Futuro imperfecto T1</title>
     <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114012100 +0100" stop="20251114030000 +0100" channel="ES: LA 1 HD">
+  <programme start="20251114001500 +0100" stop="20251114013700 +0100" channel="ES: LA 1 HD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114030000 +0100" stop="20251114053500 +0100" channel="ES: LA 1 HD">
+  <programme start="20251114013700 +0100" stop="20251114030500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Futuro imperfecto T2</title>
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+  </programme>
+  <programme start="20251114030500 +0100" stop="20251114053500 +0100" channel="ES: LA 1 HD">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Información,Informativo | 2025 | *6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
@@ -1515,7 +1316,7 @@
   </programme>
   <programme start="20251115174500 +0100" stop="20251115200000 +0100" channel="ES: LA 1 HD">
     <title lang="es">DIRECTO Georgia - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *6.0/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *5.8/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.</desc>
   </programme>
   <programme start="20251115200000 +0100" stop="20251115210000 +0100" channel="ES: LA 1 HD">
@@ -1800,147 +1601,13 @@
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
-  <programme start="20251111075000 +0100" stop="20251111103500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La hora de La 1: La hora de la actualidad T8 E223</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20251111103500 +0100" stop="20251111150000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Mañaneros 360 T2 E52</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.8/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
-  </programme>
-  <programme start="20251111150000 +0100" stop="20251111153500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111153500 +0100" stop="20251111154000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111154000 +0100" stop="20251111154500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111154500 +0100" stop="20251111155500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Información,Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-  </programme>
-  <programme start="20251111155500 +0100" stop="20251111173500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Directo al grano T1 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
-  </programme>
-  <programme start="20251111173500 +0100" stop="20251111183500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje T3 E53</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *6.0/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111183500 +0100" stop="20251111193500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1 E713</title>
-    <desc lang="es">Series,Drama | 2025 | +12 | *6.4/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20251111193500 +0100" stop="20251111203000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Malas lenguas T2 E42</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.6/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-  </programme>
-  <programme start="20251111203000 +0100" stop="20251111210000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-  </programme>
-  <programme start="20251111210000 +0100" stop="20251111214000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251111214000 +0100" stop="20251111214500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20251111214500 +0100" stop="20251111230000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La revuelta T2 E38</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-  </programme>
-  <programme start="20251111230000 +0100" stop="20251112002000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Late Xou con Marc Giró T4 E8</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
-· Marc Giró recibe en el plató a Javier Cámara, que presenta la serie "Yakarta". Además, conversa también con el renombrado bailarín y coreógrafo Nacho Duato. Y, para finalizar, Carlos Areces regresa para presentar, por segunda vez, la película "Linaje de.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112002000 +0100" stop="20251112012400 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Late Xou con Marc Giró T1 E20</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *6.0/10
-· Marc Giró recibe en su sofá a la periodista y ganadora de un Ondas Silvia Intxaurrondo.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112012400 +0100" stop="20251112024500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Late Xou con Marc Giró T1 E24</title>
-    <desc lang="es">Entretenimiento,Late Night | 2024 | +12 | *10.0/10
-· Marc Giró entrevista a Javier Gutiérrez, que acaba de estrenar la película "Pájaros". La segunda invitada es Rosa María Calaf, una de las periodistas más prestigiosas de nuestro país. Además, regresa Candela Peña con su sección.
-· País: España
-· Presenta: Marc Giró.
-· Productora: RTVE Play.</desc>
-  </programme>
-  <programme start="20251112024500 +0100" stop="20251112052000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Información,Informativo | 2025 | *6.2/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20251112052000 +0100" stop="20251112060000 +0100" channel="ES: LA 1 SD">
+  <programme start="20251118045500 +0100" stop="20251118060000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20251112060000 +0100" stop="20251112075000 +0100" channel="ES: LA 1 SD">
+  <programme start="20251118060000 +0100" stop="20251118075000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -1948,19 +1615,132 @@
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20251112075000 +0100" stop="20251112103500 +0100" channel="ES: LA 1 SD">
+  <programme start="20251118075000 +0100" stop="20251118103500 +0100" channel="ES: LA 1 HD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
-  <programme start="20251112103500 +0100" stop="20251112150000 +0100" channel="ES: LA 1 SD">
+  <programme start="20251118103500 +0100" stop="20251118150000 +0100" channel="ES: LA 1 HD">
     <title lang="es">Mañaneros 360 T2</title>
     <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
+  </programme>
+  <programme start="20251118150000 +0100" stop="20251118153500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118153500 +0100" stop="20251118154000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118154000 +0100" stop="20251118154500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118154500 +0100" stop="20251118155500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+  </programme>
+  <programme start="20251118155500 +0100" stop="20251118175000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Directo al grano T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+  </programme>
+  <programme start="20251118175000 +0100" stop="20251118184000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20251118184000 +0100" stop="20251118210000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Programa por determinar</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251118210000 +0100" stop="20251118214000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118214000 +0100" stop="20251118214500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118214500 +0100" stop="20251118230000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La revuelta T2</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20251118230000 +0100" stop="20251119001000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119001000 +0100" stop="20251119012000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119012000 +0100" stop="20251119025500 +0100" channel="ES: LA 1 HD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119025500 +0100" stop="20251119053000 +0100" channel="ES: LA 1 HD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información,Informativo | 2025 | *6.2/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251112075000 +0100" stop="20251112103500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8 E224</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20251112103500 +0100" stop="20251112150000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros 360 T2 E53</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
   </programme>
   <programme start="20251112150000 +0100" stop="20251112153500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Telediario 1</title>
@@ -1990,46 +1770,35 @@
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
   <programme start="20251112155500 +0100" stop="20251112173500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Directo al grano T1</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró.</desc>
+    <title lang="es">Directo al grano T1 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
   </programme>
   <programme start="20251112173500 +0100" stop="20251112183500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje T3</title>
-    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
+    <title lang="es">Valle Salvaje T3 E54</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
   </programme>
   <programme start="20251112183500 +0100" stop="20251112193500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La Promesa T1</title>
-    <desc lang="es">Series,Drama | 2023 | +12 | *7.2/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <title lang="es">La Promesa T1 E714</title>
+    <desc lang="es">Series,Drama | 2025 | +12
+· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
   </programme>
   <programme start="20251112193500 +0100" stop="20251112203000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
+    <title lang="es">Malas lenguas T2 E43</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20251112203000 +0100" stop="20251112210000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251112210000 +0100" stop="20251112214000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -2043,22 +1812,19 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20251112214500 +0100" stop="20251112230000 +0100" channel="ES: LA 1 SD">
-    <title lang="es">La revuelta T2</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+    <title lang="es">La revuelta T2 E39</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
   </programme>
   <programme start="20251112230000 +0100" stop="20251113022500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Hasta el fin del mundo</title>
-    <desc lang="es">Entretenimiento
-· Sin detalles...</desc>
+    <title lang="es">Hasta el fin del mundo T1 · Costa Rica-Panamá-Medellín (Colombia)</title>
+    <desc lang="es">Entretenimiento,Telerrealidad | 2025 | +12
+· Seis famosas parejas realizan un viaje a través de distintas culturas de América Latina.</desc>
   </programme>
   <programme start="20251113022500 +0100" stop="20251113025500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Más alla del fin del mundo</title>
-    <desc lang="es">Ocio y Aficiones
-· Sin detalles...</desc>
+    <title lang="es">Más alla del fin del mundo T1 · Ciudad de Panamá a Medellín</title>
+    <desc lang="es">Ocio y Aficiones,Viajes | 2025 | +12
+· Paula nos muestra la transformación de parte de Medellín. Años de cambio han logrado que algunos barrios dejen de ser un foco de violencia para convertirse en uno de los epicentros del arte colombiano.</desc>
   </programme>
   <programme start="20251113025500 +0100" stop="20251113053000 +0100" channel="ES: LA 1 SD">
     <title lang="es">La noche en 24 horas</title>
@@ -2131,7 +1897,7 @@
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
   </programme>
   <programme start="20251113173500 +0100" stop="20251113183500 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Valle Salvaje</title>
+    <title lang="es">Valle Salvaje T3</title>
     <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -2149,21 +1915,21 @@
   </programme>
   <programme start="20251113193500 +0100" stop="20251113203000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Malas lenguas T2</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
 · Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20251113203000 +0100" stop="20251113210000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.2/10
+    <desc lang="es">Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus.</desc>
   </programme>
   <programme start="20251113210000 +0100" stop="20251113214000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -2184,28 +1950,28 @@
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
-  <programme start="20251113230000 +0100" stop="20251114000500 +0100" channel="ES: LA 1 SD">
+  <programme start="20251113230000 +0100" stop="20251114001500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
-· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
-· País: España
-· Presenta: Andreu Buenafuente.</desc>
-  </programme>
-  <programme start="20251114000500 +0100" stop="20251114012100 +0100" channel="ES: LA 1 SD">
-    <title lang="es">Futuro imperfecto T1</title>
     <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114012100 +0100" stop="20251114030000 +0100" channel="ES: LA 1 SD">
+  <programme start="20251114001500 +0100" stop="20251114013700 +0100" channel="ES: LA 1 SD">
     <title lang="es">Futuro imperfecto T2</title>
-    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.0/10
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
 · Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
 · País: España
 · Presenta: Andreu Buenafuente.</desc>
   </programme>
-  <programme start="20251114030000 +0100" stop="20251114053500 +0100" channel="ES: LA 1 SD">
+  <programme start="20251114013700 +0100" stop="20251114030500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Futuro imperfecto T2</title>
+    <desc lang="es">Entretenimiento,Humor | 2025 | +12 | *6.2/10
+· Andreu Buenafuente da su visión de los temas del mundo que le llaman la atención: un análisis irónico sobre la realidad cotidiana con el toque personal de Andreu y su equipo de guionistas.
+· País: España
+· Presenta: Andreu Buenafuente.</desc>
+  </programme>
+  <programme start="20251114030500 +0100" stop="20251114053500 +0100" channel="ES: LA 1 SD">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Información,Informativo | 2025 | *6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
@@ -2409,7 +2175,7 @@
   </programme>
   <programme start="20251115174500 +0100" stop="20251115200000 +0100" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Georgia - España T25/26 · Clasificatorios Mundial 2026 UEFA</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *6.0/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *5.8/10
 · En 2026, Norteamérica albergará el Mundial. Una importante cita donde aspiran a estar las 54 selecciones en liza. Los 12 campeones de grupo y los cuatro combinados que se impongan en el playoff completarán las 16 plazas disponibles.</desc>
   </programme>
   <programme start="20251115200000 +0100" stop="20251115210000 +0100" channel="ES: LA 1 SD">
@@ -2693,5 +2459,134 @@
 · El concurso de cocina MasterChef se reinventa. En esta ocasión los famosos han de ponerse a los fogones. Conocidos participantes se esfuerzan por preparar los platos más suculentos y conseguir una donación para la ONG de su elección.
 · País: España
 · Productora: ShineIberia.</desc>
+  </programme>
+  <programme start="20251118045500 +0100" stop="20251118060000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20251118060000 +0100" stop="20251118075000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.2/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118075000 +0100" stop="20251118103500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La hora de La 1: La hora de la actualidad T8</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20251118103500 +0100" stop="20251118150000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Mañaneros 360 T2</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
+  </programme>
+  <programme start="20251118150000 +0100" stop="20251118153500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118153500 +0100" stop="20251118154000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118154000 +0100" stop="20251118154500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información,Meteorología | 2014 | *6.4/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118154500 +0100" stop="20251118155500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Información,Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+  </programme>
+  <programme start="20251118155500 +0100" stop="20251118175000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Directo al grano T1</title>
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
+  </programme>
+  <programme start="20251118175000 +0100" stop="20251118184000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Valle Salvaje T3</title>
+    <desc lang="es">Series,Telenovela | 2025 | +12 | *5.8/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20251118184000 +0100" stop="20251118210000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Programa por determinar</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251118210000 +0100" stop="20251118214000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20251118214000 +0100" stop="20251118214500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20251118214500 +0100" stop="20251118230000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La revuelta T2</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
+  </programme>
+  <programme start="20251118230000 +0100" stop="20251119001000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119001000 +0100" stop="20251119012000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119012000 +0100" stop="20251119025500 +0100" channel="ES: LA 1 SD">
+    <title lang="es">Late Xou con Marc Giró T4</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | +12 | *6.0/10
+· Marc recibe en su sofá a dos personalidades del panorama nacional.
+· País: España
+· Presenta: Marc Giró.
+· Productora: RTVE Play.</desc>
+  </programme>
+  <programme start="20251119025500 +0100" stop="20251119053000 +0100" channel="ES: LA 1 SD">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Información,Informativo | 2025 | *6.2/10
+· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
 </tv>
