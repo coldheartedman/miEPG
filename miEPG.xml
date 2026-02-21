@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/02/2026 11:40" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/02/2026 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -14,19 +14,21 @@
   </channel>
 	<programme start="20260220075000 +0100" stop="20260220103500 +0100" channel="ES: LA 1 FHD">
     <title>La hora de La 1: La hora de la actualidad T9 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.6/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
 	</programme>
 	<programme start="20260220103500 +0100" stop="20260220145500 +0100" channel="ES: LA 1 FHD">
     <title>Mañaneros 360 T2 E121</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260220145500 +0100" stop="20260220153500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -53,23 +55,34 @@
 	</programme>
 	<programme start="20260220155500 +0100" stop="20260220173500 +0100" channel="ES: LA 1 FHD">
     <title>Directo al grano T2 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260220173500 +0100" stop="20260220183500 +0100" channel="ES: LA 1 FHD">
     <title>Valle Salvaje T3 E119</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220183500 +0100" stop="20260220193500 +0100" channel="ES: LA 1 FHD">
     <title>La Promesa T1 E780</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220193500 +0100" stop="20260220203000 +0100" channel="ES: LA 1 FHD">
     <title>Malas lenguas T2 E110</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260220203000 +0100" stop="20260220205500 +0100" channel="ES: LA 1 FHD">
     <title>Aquí la Tierra</title>
@@ -80,7 +93,7 @@
 	</programme>
 	<programme start="20260220205500 +0100" stop="20260220214000 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -95,28 +108,43 @@
 	</programme>
 	<programme start="20260220214500 +0100" stop="20260220223000 +0100" channel="ES: LA 1 FHD">
     <title>Trivial Pursuit T1 E4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220223000 +0100" stop="20260220231500 +0100" channel="ES: LA 1 FHD">
     <title>Trivial Pursuit T1 E5</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220231500 +0100" stop="20260221000000 +0100" channel="ES: LA 1 FHD">
     <title>Trivial Pursuit T1 E6</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.4/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221000000 +0100" stop="20260221004500 +0100" channel="ES: LA 1 FHD">
     <title>Trivial Pursuit T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221004500 +0100" stop="20260221012500 +0100" channel="ES: LA 1 FHD">
     <title>Trivial Pursuit T1 E8</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221012500 +0100" stop="20260221025000 +0100" channel="ES: LA 1 FHD">
     <title>The Floor T2 · Imbatible</title>
@@ -146,8 +174,9 @@
 	</programme>
 	<programme start="20260221110000 +0100" stop="20260221122000 +0100" channel="ES: LA 1 FHD">
     <title>Gelem, gelem. Homenaje al pueblo gitano</title>
-    <desc>Entretenimiento | 2026 | TP
-· Programa especial en homenaje al pueblo gitano.</desc>
+    <desc>Entretenimiento | 2026 | TP | *6.0/10
+· Acto de homenaje al pueblo gitano que cierra la conmemoración de los 600 años de su llegada a la Península Ibérica.
+· País: España</desc>
 	</programme>
 	<programme start="20260221122000 +0100" stop="20260221130500 +0100" channel="ES: LA 1 FHD">
     <title>Viaje al centro de la tele T14 · El último guateque</title>
@@ -158,12 +187,14 @@
 	</programme>
 	<programme start="20260221130500 +0100" stop="20260221145500 +0100" channel="ES: LA 1 FHD">
     <title>D Corazón T3 E15</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *5.4/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
 	</programme>
 	<programme start="20260221145500 +0100" stop="20260221154500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -187,7 +218,12 @@
 	<programme start="20260221155500 +0100" stop="20260221174000 +0100" channel="ES: LA 1 FHD">
     <title>El verano de sus vidas</title>
     <desc>Cine,Comedia | 2012 | +12 | *7.8/10
-· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.</desc>
+· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.
+· País: Estados Unidos
+· Dirección: Rob Reiner.
+· Reparto: Morgan Freeman, Virginia Madsen, Madeline Carroll, Kenan Thompson, Jessica Hecht, Emma Fuhrmann.
+· Guion: Guy Thomas.
+· Productora: Magnolia Pictures, Revelations Entertainment, Castle Rock Entertainment.</desc>
 	</programme>
 	<programme start="20260221174000 +0100" stop="20260221190500 +0100" channel="ES: LA 1 FHD">
     <title>Ooh La La!</title>
@@ -925,19 +961,21 @@
 	</programme>
 	<programme start="20260220075000 +0100" stop="20260220103500 +0100" channel="ES: LA 1 HD">
     <title>La hora de La 1: La hora de la actualidad T9 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.6/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
 	</programme>
 	<programme start="20260220103500 +0100" stop="20260220145500 +0100" channel="ES: LA 1 HD">
     <title>Mañaneros 360 T2 E121</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260220145500 +0100" stop="20260220153500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -964,23 +1002,34 @@
 	</programme>
 	<programme start="20260220155500 +0100" stop="20260220173500 +0100" channel="ES: LA 1 HD">
     <title>Directo al grano T2 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260220173500 +0100" stop="20260220183500 +0100" channel="ES: LA 1 HD">
     <title>Valle Salvaje T3 E119</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220183500 +0100" stop="20260220193500 +0100" channel="ES: LA 1 HD">
     <title>La Promesa T1 E780</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220193500 +0100" stop="20260220203000 +0100" channel="ES: LA 1 HD">
     <title>Malas lenguas T2 E110</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260220203000 +0100" stop="20260220205500 +0100" channel="ES: LA 1 HD">
     <title>Aquí la Tierra</title>
@@ -991,7 +1040,7 @@
 	</programme>
 	<programme start="20260220205500 +0100" stop="20260220214000 +0100" channel="ES: LA 1 HD">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1006,28 +1055,43 @@
 	</programme>
 	<programme start="20260220214500 +0100" stop="20260220223000 +0100" channel="ES: LA 1 HD">
     <title>Trivial Pursuit T1 E4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220223000 +0100" stop="20260220231500 +0100" channel="ES: LA 1 HD">
     <title>Trivial Pursuit T1 E5</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220231500 +0100" stop="20260221000000 +0100" channel="ES: LA 1 HD">
     <title>Trivial Pursuit T1 E6</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.4/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221000000 +0100" stop="20260221004500 +0100" channel="ES: LA 1 HD">
     <title>Trivial Pursuit T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221004500 +0100" stop="20260221012500 +0100" channel="ES: LA 1 HD">
     <title>Trivial Pursuit T1 E8</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221012500 +0100" stop="20260221025000 +0100" channel="ES: LA 1 HD">
     <title>The Floor T2 · Imbatible</title>
@@ -1057,8 +1121,9 @@
 	</programme>
 	<programme start="20260221110000 +0100" stop="20260221122000 +0100" channel="ES: LA 1 HD">
     <title>Gelem, gelem. Homenaje al pueblo gitano</title>
-    <desc>Entretenimiento | 2026 | TP
-· Programa especial en homenaje al pueblo gitano.</desc>
+    <desc>Entretenimiento | 2026 | TP | *6.0/10
+· Acto de homenaje al pueblo gitano que cierra la conmemoración de los 600 años de su llegada a la Península Ibérica.
+· País: España</desc>
 	</programme>
 	<programme start="20260221122000 +0100" stop="20260221130500 +0100" channel="ES: LA 1 HD">
     <title>Viaje al centro de la tele T14 · El último guateque</title>
@@ -1069,12 +1134,14 @@
 	</programme>
 	<programme start="20260221130500 +0100" stop="20260221145500 +0100" channel="ES: LA 1 HD">
     <title>D Corazón T3 E15</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *5.4/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
 	</programme>
 	<programme start="20260221145500 +0100" stop="20260221154500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -1098,7 +1165,12 @@
 	<programme start="20260221155500 +0100" stop="20260221174000 +0100" channel="ES: LA 1 HD">
     <title>El verano de sus vidas</title>
     <desc>Cine,Comedia | 2012 | +12 | *7.8/10
-· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.</desc>
+· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.
+· País: Estados Unidos
+· Dirección: Rob Reiner.
+· Reparto: Morgan Freeman, Virginia Madsen, Madeline Carroll, Kenan Thompson, Jessica Hecht, Emma Fuhrmann.
+· Guion: Guy Thomas.
+· Productora: Magnolia Pictures, Revelations Entertainment, Castle Rock Entertainment.</desc>
 	</programme>
 	<programme start="20260221174000 +0100" stop="20260221190500 +0100" channel="ES: LA 1 HD">
     <title>Ooh La La!</title>
@@ -1836,19 +1908,21 @@
 	</programme>
 	<programme start="20260220075000 +0100" stop="20260220103500 +0100" channel="ES: LA 1 SD">
     <title>La hora de La 1: La hora de la actualidad T9 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.6/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
 	</programme>
 	<programme start="20260220103500 +0100" stop="20260220145500 +0100" channel="ES: LA 1 SD">
     <title>Mañaneros 360 T2 E121</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260220145500 +0100" stop="20260220153500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -1875,23 +1949,34 @@
 	</programme>
 	<programme start="20260220155500 +0100" stop="20260220173500 +0100" channel="ES: LA 1 SD">
     <title>Directo al grano T2 E35</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260220173500 +0100" stop="20260220183500 +0100" channel="ES: LA 1 SD">
     <title>Valle Salvaje T3 E119</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220183500 +0100" stop="20260220193500 +0100" channel="ES: LA 1 SD">
     <title>La Promesa T1 E780</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260220193500 +0100" stop="20260220203000 +0100" channel="ES: LA 1 SD">
     <title>Malas lenguas T2 E110</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260220203000 +0100" stop="20260220205500 +0100" channel="ES: LA 1 SD">
     <title>Aquí la Tierra</title>
@@ -1902,7 +1987,7 @@
 	</programme>
 	<programme start="20260220205500 +0100" stop="20260220214000 +0100" channel="ES: LA 1 SD">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -1917,28 +2002,43 @@
 	</programme>
 	<programme start="20260220214500 +0100" stop="20260220223000 +0100" channel="ES: LA 1 SD">
     <title>Trivial Pursuit T1 E4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220223000 +0100" stop="20260220231500 +0100" channel="ES: LA 1 SD">
     <title>Trivial Pursuit T1 E5</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260220231500 +0100" stop="20260221000000 +0100" channel="ES: LA 1 SD">
     <title>Trivial Pursuit T1 E6</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.4/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221000000 +0100" stop="20260221004500 +0100" channel="ES: LA 1 SD">
     <title>Trivial Pursuit T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221004500 +0100" stop="20260221012500 +0100" channel="ES: LA 1 SD">
     <title>Trivial Pursuit T1 E8</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Egoitz Txurruka presenta esta versión televisiva del popular juego de mesa.
+· País: España
+· Presenta: Egoitz Txurruka.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
 	<programme start="20260221012500 +0100" stop="20260221025000 +0100" channel="ES: LA 1 SD">
     <title>The Floor T2 · Imbatible</title>
@@ -1968,8 +2068,9 @@
 	</programme>
 	<programme start="20260221110000 +0100" stop="20260221122000 +0100" channel="ES: LA 1 SD">
     <title>Gelem, gelem. Homenaje al pueblo gitano</title>
-    <desc>Entretenimiento | 2026 | TP
-· Programa especial en homenaje al pueblo gitano.</desc>
+    <desc>Entretenimiento | 2026 | TP | *6.0/10
+· Acto de homenaje al pueblo gitano que cierra la conmemoración de los 600 años de su llegada a la Península Ibérica.
+· País: España</desc>
 	</programme>
 	<programme start="20260221122000 +0100" stop="20260221130500 +0100" channel="ES: LA 1 SD">
     <title>Viaje al centro de la tele T14 · El último guateque</title>
@@ -1980,12 +2081,14 @@
 	</programme>
 	<programme start="20260221130500 +0100" stop="20260221145500 +0100" channel="ES: LA 1 SD">
     <title>D Corazón T3 E15</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *5.4/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
 	</programme>
 	<programme start="20260221145500 +0100" stop="20260221154500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -2009,7 +2112,12 @@
 	<programme start="20260221155500 +0100" stop="20260221174000 +0100" channel="ES: LA 1 SD">
     <title>El verano de sus vidas</title>
     <desc>Cine,Comedia | 2012 | +12 | *7.8/10
-· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.</desc>
+· Tras la muerte de su esposa, el escritor Monte Wildhorn, se ha vuelto un amargado que ha perdido la fe y solo encuentra consuelo en el alcohol. Su sobrino, preocupado por él, le encuentra un lugar.
+· País: Estados Unidos
+· Dirección: Rob Reiner.
+· Reparto: Morgan Freeman, Virginia Madsen, Madeline Carroll, Kenan Thompson, Jessica Hecht, Emma Fuhrmann.
+· Guion: Guy Thomas.
+· Productora: Magnolia Pictures, Revelations Entertainment, Castle Rock Entertainment.</desc>
 	</programme>
 	<programme start="20260221174000 +0100" stop="20260221190500 +0100" channel="ES: LA 1 SD">
     <title>Ooh La La!</title>
