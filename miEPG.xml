@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/02/2026 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/02/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -55,7 +55,7 @@
 	</programme>
 	<programme start="20260222145500 +0100" stop="20260222154500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -88,7 +88,7 @@
 · Producción: Jordan Kerner, Jon Avnet.
 · Productora: The Rank Organization, Electric Shadow Productions, Universal Pictures, Act III Communications, Avnet/Kerner Productions.</desc>
 	</programme>
-	<programme start="20260222180000 +0100" stop="20260222200500 +0100" channel="ES: LA 1 FHD">
+	<programme start="20260222180000 +0100" stop="20260222201000 +0100" channel="ES: LA 1 FHD">
     <title>Mensaje en una botella</title>
     <desc>Cine,Drama | 1999 | +12 | *7.0/10
 · Conmovida por el mensaje en una botella que acaba de encontrar en la costa, una mujer decide buscar a su autor.
@@ -100,7 +100,7 @@
 · Producción: Kevin Costner, Jim Wilson, Denise Di Novi.
 · Productora: Tig Productions, DiNovi Pictures, Bel-Air Entertainment.</desc>
 	</programme>
-	<programme start="20260222200500 +0100" stop="20260222205500 +0100" channel="ES: LA 1 FHD">
+	<programme start="20260222201000 +0100" stop="20260222205500 +0100" channel="ES: LA 1 FHD">
     <title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -177,7 +177,7 @@
 	</programme>
 	<programme start="20260223060000 +0100" stop="20260223075000 +0100" channel="ES: LA 1 FHD">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.2/10
+    <desc>Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -199,7 +199,7 @@
 	</programme>
 	<programme start="20260223145500 +0100" stop="20260223153500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -999,7 +999,7 @@
 	</programme>
 	<programme start="20260222145500 +0100" stop="20260222154500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -1032,7 +1032,7 @@
 · Producción: Jordan Kerner, Jon Avnet.
 · Productora: The Rank Organization, Electric Shadow Productions, Universal Pictures, Act III Communications, Avnet/Kerner Productions.</desc>
 	</programme>
-	<programme start="20260222180000 +0100" stop="20260222200500 +0100" channel="ES: LA 1 HD">
+	<programme start="20260222180000 +0100" stop="20260222201000 +0100" channel="ES: LA 1 HD">
     <title>Mensaje en una botella</title>
     <desc>Cine,Drama | 1999 | +12 | *7.0/10
 · Conmovida por el mensaje en una botella que acaba de encontrar en la costa, una mujer decide buscar a su autor.
@@ -1044,7 +1044,7 @@
 · Producción: Kevin Costner, Jim Wilson, Denise Di Novi.
 · Productora: Tig Productions, DiNovi Pictures, Bel-Air Entertainment.</desc>
 	</programme>
-	<programme start="20260222200500 +0100" stop="20260222205500 +0100" channel="ES: LA 1 HD">
+	<programme start="20260222201000 +0100" stop="20260222205500 +0100" channel="ES: LA 1 HD">
     <title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -1121,7 +1121,7 @@
 	</programme>
 	<programme start="20260223060000 +0100" stop="20260223075000 +0100" channel="ES: LA 1 HD">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.2/10
+    <desc>Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -1143,7 +1143,7 @@
 	</programme>
 	<programme start="20260223145500 +0100" stop="20260223153500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -1943,7 +1943,7 @@
 	</programme>
 	<programme start="20260222145500 +0100" stop="20260222154500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.0/10
+    <desc>Información,Informativo | 2021 | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -1976,7 +1976,7 @@
 · Producción: Jordan Kerner, Jon Avnet.
 · Productora: The Rank Organization, Electric Shadow Productions, Universal Pictures, Act III Communications, Avnet/Kerner Productions.</desc>
 	</programme>
-	<programme start="20260222180000 +0100" stop="20260222200500 +0100" channel="ES: LA 1 SD">
+	<programme start="20260222180000 +0100" stop="20260222201000 +0100" channel="ES: LA 1 SD">
     <title>Mensaje en una botella</title>
     <desc>Cine,Drama | 1999 | +12 | *7.0/10
 · Conmovida por el mensaje en una botella que acaba de encontrar en la costa, una mujer decide buscar a su autor.
@@ -1988,7 +1988,7 @@
 · Producción: Kevin Costner, Jim Wilson, Denise Di Novi.
 · Productora: Tig Productions, DiNovi Pictures, Bel-Air Entertainment.</desc>
 	</programme>
-	<programme start="20260222200500 +0100" stop="20260222205500 +0100" channel="ES: LA 1 SD">
+	<programme start="20260222201000 +0100" stop="20260222205500 +0100" channel="ES: LA 1 SD">
     <title>Aquí la Tierra</title>
     <desc>Entretenimiento,Magacín | 2025 | TP | *6.4/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
@@ -2065,7 +2065,7 @@
 	</programme>
 	<programme start="20260223060000 +0100" stop="20260223075000 +0100" channel="ES: LA 1 SD">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.2/10
+    <desc>Información,Informativo | 2023 | *6.2/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -2087,7 +2087,7 @@
 	</programme>
 	<programme start="20260223145500 +0100" stop="20260223153500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
