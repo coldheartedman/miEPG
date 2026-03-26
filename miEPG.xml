@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/03/2026 11:43" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/03/2026 11:44" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 FHD">
     <display-name>ES: LA 1 FHD</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -21,12 +21,14 @@
 	</programme>
 	<programme start="20260325103500 +0100" stop="20260325145500 +0100" channel="ES: LA 1 FHD">
     <title>Mañaneros 360 T2 E144</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260325145500 +0100" stop="20260325153500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -53,23 +55,34 @@
 	</programme>
 	<programme start="20260325155500 +0100" stop="20260325174500 +0100" channel="ES: LA 1 FHD">
     <title>Directo al grano T2 E58</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260325174500 +0100" stop="20260325183500 +0100" channel="ES: LA 1 FHD">
     <title>Valle Salvaje T3 E142</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325183500 +0100" stop="20260325193500 +0100" channel="ES: LA 1 FHD">
     <title>La Promesa T1 E802</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325193500 +0100" stop="20260325203000 +0100" channel="ES: LA 1 FHD">
     <title>Malas lenguas T2 E133</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260325203000 +0100" stop="20260325205500 +0100" channel="ES: LA 1 FHD">
     <title>Aquí la Tierra</title>
@@ -95,13 +108,19 @@
 	</programme>
 	<programme start="20260325214500 +0100" stop="20260325230000 +0100" channel="ES: LA 1 FHD">
     <title>La revuelta T2 E98</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <desc>Entretenimiento,Entrevista | 2026 | +12 | *5.6/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
 	</programme>
 	<programme start="20260325230000 +0100" stop="20260326015000 +0100" channel="ES: LA 1 FHD">
     <title>Top Chef: Dulces y famosos T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | +7
-· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.0/10
+· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
 	</programme>
 	<programme start="20260326015000 +0100" stop="20260326043000 +0100" channel="ES: LA 1 FHD">
     <title>Top Chef: Dulces y famosos T1 E6</title>
@@ -141,7 +160,7 @@
 	</programme>
 	<programme start="20260326145500 +0100" stop="20260326153500 +0100" channel="ES: LA 1 FHD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -940,12 +959,14 @@
 	</programme>
 	<programme start="20260325103500 +0100" stop="20260325145500 +0100" channel="ES: LA 1 HD">
     <title>Mañaneros 360 T2 E144</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260325145500 +0100" stop="20260325153500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -972,23 +993,34 @@
 	</programme>
 	<programme start="20260325155500 +0100" stop="20260325174500 +0100" channel="ES: LA 1 HD">
     <title>Directo al grano T2 E58</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260325174500 +0100" stop="20260325183500 +0100" channel="ES: LA 1 HD">
     <title>Valle Salvaje T3 E142</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325183500 +0100" stop="20260325193500 +0100" channel="ES: LA 1 HD">
     <title>La Promesa T1 E802</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325193500 +0100" stop="20260325203000 +0100" channel="ES: LA 1 HD">
     <title>Malas lenguas T2 E133</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260325203000 +0100" stop="20260325205500 +0100" channel="ES: LA 1 HD">
     <title>Aquí la Tierra</title>
@@ -1014,13 +1046,19 @@
 	</programme>
 	<programme start="20260325214500 +0100" stop="20260325230000 +0100" channel="ES: LA 1 HD">
     <title>La revuelta T2 E98</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <desc>Entretenimiento,Entrevista | 2026 | +12 | *5.6/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
 	</programme>
 	<programme start="20260325230000 +0100" stop="20260326015000 +0100" channel="ES: LA 1 HD">
     <title>Top Chef: Dulces y famosos T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | +7
-· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.0/10
+· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
 	</programme>
 	<programme start="20260326015000 +0100" stop="20260326043000 +0100" channel="ES: LA 1 HD">
     <title>Top Chef: Dulces y famosos T1 E6</title>
@@ -1060,7 +1098,7 @@
 	</programme>
 	<programme start="20260326145500 +0100" stop="20260326153500 +0100" channel="ES: LA 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -1859,12 +1897,14 @@
 	</programme>
 	<programme start="20260325103500 +0100" stop="20260325145500 +0100" channel="ES: LA 1 SD">
     <title>Mañaneros 360 T2 E144</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20260325145500 +0100" stop="20260325153500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -1891,23 +1931,34 @@
 	</programme>
 	<programme start="20260325155500 +0100" stop="20260325174500 +0100" channel="ES: LA 1 SD">
     <title>Directo al grano T2 E58</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20260325174500 +0100" stop="20260325183500 +0100" channel="ES: LA 1 SD">
     <title>Valle Salvaje T3 E142</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325183500 +0100" stop="20260325193500 +0100" channel="ES: LA 1 SD">
     <title>La Promesa T1 E802</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
 	<programme start="20260325193500 +0100" stop="20260325203000 +0100" channel="ES: LA 1 SD">
     <title>Malas lenguas T2 E133</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20260325203000 +0100" stop="20260325205500 +0100" channel="ES: LA 1 SD">
     <title>Aquí la Tierra</title>
@@ -1933,13 +1984,19 @@
 	</programme>
 	<programme start="20260325214500 +0100" stop="20260325230000 +0100" channel="ES: LA 1 SD">
     <title>La revuelta T2 E98</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <desc>Entretenimiento,Entrevista | 2026 | +12 | *5.6/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
 	</programme>
 	<programme start="20260325230000 +0100" stop="20260326015000 +0100" channel="ES: LA 1 SD">
     <title>Top Chef: Dulces y famosos T1 E7</title>
-    <desc>Entretenimiento,Concurso | 2026 | +7
-· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.0/10
+· La técnica y la resistencia marcan el séptimo programa con una tarta trampantojo guiada por el prestigioso chef Miquel Guarro y la exigente réplica de un postre de Paco Roncero, sin pausas y bajo máxima presión.
+· País: España
+· Presenta: Paula Vázquez.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
 	</programme>
 	<programme start="20260326015000 +0100" stop="20260326043000 +0100" channel="ES: LA 1 SD">
     <title>Top Chef: Dulces y famosos T1 E6</title>
@@ -1979,7 +2036,7 @@
 	</programme>
 	<programme start="20260326145500 +0100" stop="20260326153500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
